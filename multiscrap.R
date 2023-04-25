@@ -113,7 +113,8 @@ AllIndicateurs<-rbind(Insee,SSMSI,DARES)
 #Envoie des maj des evenements
 events= ic_event(start = AllIndicateurs$date_embargo[1], end = AllIndicateurs$date_embargo[1]+hours(1) , 
                  summary = paste0(AllIndicateurs$categorie[1],": ",AllIndicateurs$element[1]))
-for( i in 2:nrow(Insee)){
+
+for( i in 2:nrow(AllIndicateurs)){
   tmp<-ic_event(start = AllIndicateurs$date_embargo[i], end = AllIndicateurs$date_embargo[i]+hours(1) , 
                 summary = paste0(AllIndicateurs$categorie[i],": ",AllIndicateurs$element[i]))
   events<-rbind(events,tmp)
