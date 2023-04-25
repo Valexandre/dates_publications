@@ -104,6 +104,7 @@ sors_les_publis_dares<-function(){
     rowwise()%>%
     mutate(date_embargo=NettoieLesDatesDares(date))%>%
     filter(!is.na(date_embargo))
+  Dares_tmp
 }
 
 DARES<-sors_les_publis_dares()
