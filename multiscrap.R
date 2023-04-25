@@ -15,7 +15,6 @@ RajouteAnneeADate<-function(chainedecaracteres){
   retourchainecaracteres<-gsub("  "," ",ifelse(bonnejustedate<Sys.Date(),paste0(dmy(paste0(justedate,(as.numeric(substr(Sys.Date(),1,4))+1))),bonnejusteheure),paste0(bonnejustedate," ",bonnejusteheure)))
   ymd_hms(retourchainecaracteres)
 }
-RajouteAnneeADate(boites$date[1])
 
 sors_les_publis_insee<-function(){
   pageindic<-read_html(pages_a_scraper$lien[pages_a_scraper$qui=="insee" & pages_a_scraper$quoi=="publications"])
