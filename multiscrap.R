@@ -4,7 +4,7 @@ library(rvest)
 library(lubridate)
 library(calendar)
 library(magrittr)
-pages_a_scraper<-read.csv("pagesascraper.csv")
+pages_a_scraper<-read.csv("https://raw.githubusercontent.com/Valexandre/dates_publications/main/pagesascraper.csv")
 
 RajouteAnneeADate<-function(chainedecaracteres){
   datedujour<-Sys.Date()
