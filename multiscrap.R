@@ -3,6 +3,7 @@ library(stringr)
 library(rvest)
 library(lubridate)
 library(calendar)
+library(magrittr)
 pages_a_scraper<-read.csv("pagesascraper.csv")
 
 RajouteAnneeADate<-function(chainedecaracteres){
