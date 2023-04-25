@@ -121,4 +121,4 @@ for( i in 2:nrow(AllIndicateurs)){
   events<-rbind(events,tmp)
 }
 
-ic_write(events, file.path(getwd(), "ic_insee.ics"))
+ic_write(events, "ic_insee.ics")
