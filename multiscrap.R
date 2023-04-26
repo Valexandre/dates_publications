@@ -30,7 +30,7 @@ RajouteAnneeADate <- function(chainedecaracteres) {
       ),locale = "fr_FR"), bonnejusteheure),
       paste0(bonnejustedate, " ", bonnejusteheure)
     ))
-  ymd_hms(retourchainecaracteres, locale = "fr_FR"))
+  ymd_hms(retourchainecaracteres, locale = "fr_FR")
 }
 
 sors_les_publis_insee <- function() {
