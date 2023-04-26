@@ -11,7 +11,7 @@ RajouteAnneeADate<-function(chainedecaracteres){
   justedate<-strsplit(chainedecaracteres,split = "à",2)[[1]][1]
   justeheure<-strsplit(chainedecaracteres,split = "à",2)[[1]][2]
   bonnejusteheure<-ifelse(substr(justeheure,nchar(justeheure),nchar(justeheure))=="h",gsub("h",":00:00",justeheure),paste0(gsub("h",":",justeheure),":00"))
-  bonnejustedate<-dmy(paste0(justedate,substr(Sys.Date(),1,4)), locale = "fr_FR.utf8"))
+  bonnejustedate<-dmy(paste0(justedate,substr(Sys.Date(),1,4)), locale = "fr_FR.utf8")
   retourchainecaracteres<-gsub("  "," ",ifelse(bonnejustedate<Sys.Date(),paste0(dmy(paste0(justedate,(as.numeric(substr(Sys.Date(),1,4))+1))),bonnejusteheure),paste0(bonnejustedate," ",bonnejusteheure)))
   ymd_hms(retourchainecaracteres, locale = "fr_FR.utf8"))
 }
