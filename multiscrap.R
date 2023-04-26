@@ -20,17 +20,17 @@ RajouteAnneeADate <- function(chainedecaracteres) {
       paste0(gsub("h", ":", justeheure), ":00")
     )
   bonnejustedate <-
-    dmy(paste0(justedate, substr(Sys.Date(), 1, 4)), locale = "fr_FR.utf8")
+    dmy(paste0(justedate, substr(Sys.Date(), 1, 4)), locale = "fr_FR")
   retourchainecaracteres <-
     gsub("  ", " ", ifelse(
       bonnejustedate < Sys.Date(),
       paste0(dmy(paste0(
         justedate, (as.numeric(substr(Sys.Date(
         ), 1, 4)) + 1)
-      ),locale = "fr_FR.utf8"), bonnejusteheure),
+      ),locale = "fr_FR"), bonnejusteheure),
       paste0(bonnejustedate, " ", bonnejusteheure)
     ))
-  ymd_hms(retourchainecaracteres, locale = "fr_FR.utf8")
+  ymd_hms(retourchainecaracteres, locale = "fr_FR"))
 }
 
 sors_les_publis_insee <- function() {
@@ -57,7 +57,7 @@ Insee <- sors_les_publis_insee()
 # scrapper ssmsi
 MetLesDatesSansHeureA8h <- function(chainedecaracteres) {
   tmp <- paste0(chainedecaracteres, " 08:00:00")
-  bonneheure <- dmy_hms(tmp, locale = "fr_FR.utf8")
+  bonneheure <- dmy_hms(tmp, locale = "fr_FR")
   bonneheure
 }
 
@@ -96,16 +96,18 @@ NettoieLesDatesDares <- function(chainedecaracteres) {
   justedate <- strsplit(tmp, split = "  ", 2)[[1]][1]
   justeheure <- str_extract(tmp, pattern = "\\d\\d:\\d\\d")
   bonnejustedate <-
-    dmy(paste0(justedate, substr(Sys.Date(), 1, 4)), locale = "fr_FR.utf8")
+    dmy(paste0(justedate, substr(Sys.Date(), 1, 4)), locale = "fr_FR")
   retourchainecaracteres <-
     gsub("  ", " ", ifelse(
       bonnejustedate < Sys.Date(),
       paste0(dmy(paste0(
-        justedate, (as.numeric(substr(Sys.Date(), 1, 4)) + 1)
-      ), locale = "fr_FR.utf8"), justeheure),
+        justedate, (as.numeric(substr(Sys.Date(
+          
+        ), 1, 4)) + 1)
+      ), locale = "fr_FR"), justeheure),
       paste0(bonnejustedate, " ", justeheure, ":00")
     ))
-  ymd_hms(retourchainecaracteres, locale = "fr_FR.utf8")
+  ymd_hms(retourchainecaracteres, locale = "fr_FR")
 }
 
 
