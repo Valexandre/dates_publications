@@ -30,7 +30,7 @@ RajouteAnneeADate <- function(chainedecaracteres) {
       ),locale = "fr_FR.utf8"), bonnejusteheure),
       paste0(bonnejustedate, " ", bonnejusteheure)
     ))
-  ymd_hms(retourchainecaracteres, locale = "fr_FR.utf8"))
+  ymd_hms(retourchainecaracteres, locale = "fr_FR.utf8")
 }
 
 sors_les_publis_insee <- function() {
@@ -101,9 +101,7 @@ NettoieLesDatesDares <- function(chainedecaracteres) {
     gsub("  ", " ", ifelse(
       bonnejustedate < Sys.Date(),
       paste0(dmy(paste0(
-        justedate, (as.numeric(substr(Sys.Date(
-          
-        ), 1, 4)) + 1)
+        justedate, (as.numeric(substr(Sys.Date(), 1, 4)) + 1)
       ), locale = "fr_FR.utf8"), justeheure),
       paste0(bonnejustedate, " ", justeheure, ":00")
     ))
