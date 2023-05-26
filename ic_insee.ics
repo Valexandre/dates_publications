@@ -4,109 +4,116 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:ical-a23c7918-f013-454e-bf15-c6a2f2d40d05
-DTSTART:20230505T084500
-DTEND:20230505T094500
-SUMMARY:INDICATEURS CONJONCTURELS: Indice de la production industrielle – mars 2023
+UID:ical-3f654fd3-131a-4a5e-801d-d5afe9e31662
+DTSTART:20230530T084500
+DTEND:20230530T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Indices Notaires-Insee des prix des logements anciens - 1er trimestre 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-24b81639-5a48-49c5-83b7-f5c9873eed04
-DTSTART:20230505T084500
-DTEND:20230505T094500
-SUMMARY:INDICATEURS CONJONCTURELS: Estimation flash de l’emploi salarié - 1er trimestre 2023
+UID:ical-a7a9c2f6-5446-41e5-915a-7754015714cd
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Comptes nationaux trimestriels – Résultats détaillés - 1er trimestre 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ea5e1e1a-1db2-4b44-a984-494ce9188cc5
-DTSTART:20230505T084500
-DTEND:20230505T094500
-SUMMARY:CONJONCTURE: Publication d’un point de conjoncture
+UID:ical-907e62da-117d-47e3-a09b-76ee02548101
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Dépenses de consommation des ménages en biens - avril 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-84a56e91-9b87-4525-9c40-70831b66e820
-DTSTART:20230512T084500
-DTEND:20230512T094500
-SUMMARY:INDICATEURS CONJONCTURELS: Indice des prix à la consommation – résultats définitifs - avril 2023
+UID:ical-6f70928b-0fe4-45f2-bb91-44924df7581a
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Indice des prix à la consommation - résultats provisoires - mai 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-620f9d5b-20bc-489d-9c16-72efc220e0d4
-DTSTART:20230512T120000
-DTEND:20230512T130000
-SUMMARY:INDICATEURS CONJONCTURELS: Indice des prix dans la grande distribution - avril 2023
+UID:ical-eee92922-94ad-43fd-b746-979f54e1a1aa
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Indices de prix de production et d'importation de l'industrie - avril 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2e0c88f1-e841-449e-bde2-edae399e7c55
-DTSTART:20230512T120000
-DTEND:20230512T130000
-SUMMARY:INDICATEURS CONJONCTURELS: Index bâtiment, travaux publics et divers de la construction - mars 2023
+UID:ical-b379e532-c1ea-4cbd-92bf-8707a1450fd4
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Indice de production dans les services - mars 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6bc0a032-0ce1-47c6-81cd-1faf192ff13d
-DTSTART:20230501T060000
-DTEND:20230501T070000
-SUMMARY:PUBLICATIONS NATIONALES: Comment l'augmentation des coûts des intrants importés et de l’énergie depuis 2021
-                                    se transmet aux prix de production – Insee Analyses
+UID:ical-f6427f37-b483-4581-bf4f-fe8ad3358bc4
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Volume des ventes dans le commerce - mars 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b8da9b5b-2f2c-49ff-87cf-a3c551582158
-DTSTART:20230501T060000
-DTEND:20230501T070000
-SUMMARY:PUBLICATIONS NATIONALES: Les seniors ni en emploi ni à la retraite en 2021 – Insee Première
+UID:ical-da5aaacd-c901-4be4-96ac-6dfd9dda6592
+DTSTART:20230531T120000
+DTEND:20230531T130000
+SUMMARY:INDICATEURS CONJONCTURELS: Chiffre d'affaires dans l'industrie et la construction - mars 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3f36b098-1025-402d-9030-6f8344114d61
-DTSTART:20230511T170000
-DTEND:20230511T180000
-SUMMARY:ÉCONOMIE ET STATISTIQUE / ECONOMICS AND STATISTICS: Les articles du numéro 538 d'Économie et Statistique / Economics and statistics seront
-                                    disponibles en PDF sous embargo le jeudi 11 mai à partir de 9h30 au bureau de presse.
+UID:ical-824b9788-d2a7-4bc5-a7c1-e3e8bff18644
+DTSTART:20230531T120000
+DTEND:20230531T130000
+SUMMARY:INDICATEURS CONJONCTURELS: Indices des prix de production des services - 1er trimestre 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8c92259d-6fb3-4227-b2f3-f47b66357cff
-DTSTART:20230427T080000
-DTEND:20230427T090000
-SUMMARY:SSMSI: Les violences physiques hors cadre familial en 2021(Interstats Analyse)
+UID:ical-039333f9-582a-43c9-a584-9773e461c183
+DTSTART:20230531T120000
+DTEND:20230531T130000
+SUMMARY:INDICATEURS CONJONCTURELS: Indices de prix d'entretien-amélioration des bâtiments - 1er trimestre 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-946420ce-eb6a-455e-bfb7-a3f39d4f7984
-DTSTART:20230505T080000
-DTEND:20230505T090000
-SUMMARY:SSMSI: 31% des victimes de vols dans les transports en commun déposent plainte(Interstats Analyse)
+UID:ical-66898de5-ccbb-4597-829a-19ae5c284212
+DTSTART:20230531T120000
+DTEND:20230531T130000
+SUMMARY:INDICATEURS CONJONCTURELS: Indices des prix agricoles - avril 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cacbc668-4735-4c78-9b8b-4e8c00ad20f0
-DTSTART:20230516T080000
-DTEND:20230516T090000
-SUMMARY:SSMSI: Opération coordonnée avec l’Insee sur le thème des cambriolages (à partir des données communales) : deux publications nationales et plusieurs publications régionales en collaboration avec les directions régionales de l’Insee(Insee Focus, Interstats Analyse et Insee Flash régionaux)
+UID:ical-802b3d75-8e02-45bd-b447-c272a6bac3d1
+DTSTART:20230602T084500
+DTEND:20230602T094500
+SUMMARY:INDICATEURS CONJONCTURELS: Indice de la production industrielle - avril 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7b07b466-ba04-4d86-80b3-2de2bd0cb5eb
-DTSTART:20230516T080000
-DTEND:20230516T090000
-SUMMARY:SSMSI: Mise en ligne d’un outil de datavisualisation des cambriolages à l’échelle infracommunale (cartes de chaleur)(Espace Open data)
+UID:ical-04b95dc6-c67c-4fdc-9f2d-148639cf820a
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:PUBLICATIONS NATIONALES: Les comptes des administrations publiques en 2022 - Insee Première
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-810d098f-994a-4b66-a49f-892422118f3b
-DTSTART:20230517T080000
-DTEND:20230517T090000
-SUMMARY:SSMSI: Les atteintes « anti LGBT+ » enregistrées par les services de sécurité en 2022(Interstats Info rapide)
+UID:ical-77110f0f-f00a-4b7b-9a15-eca74a366329
+DTSTART:20230531T084500
+DTEND:20230531T094500
+SUMMARY:PUBLICATIONS NATIONALES: Les comptes de la Nation en 2022 - Insee Première
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8fe77d48-ddab-41e2-b983-5bdeb601c5e2
-DTSTART:20230505T084500
-DTEND:20230505T094500
-SUMMARY:Dares: 
-        Évolution des salaires de base dans le secteur privé : résultats provisoires du 1er trimestre 2023
-      
+UID:ical-b1a297a2-5d1a-4a8b-b127-c3c6f9c2f424
+DTSTART:20230608T073000
+DTEND:20230608T083000
+SUMMARY:INDICATEURS CONJONCTURELS: Emploi salarié - 1er trimestre 2023
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c44b477d-b4ac-4ad3-a1ab-63cbd300219d
-DTSTART:20230505T084500
-DTEND:20230505T094500
-SUMMARY:Dares: 
-        L'emploi intérimaire (février 2023 rectifié et mars 2023 provisoire)
-      
+UID:ical-83a9e16a-00c8-40cb-9b50-31c2dde358a5
+DTSTART:20230526T150000
+DTEND:20230526T160000
+SUMMARY:PUBLICATIONS NATIONALES: La surmortalité, excédent de décès observés par rapport à ceux attendus, en 2022 –
+                                    Insee Première
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b98404fb-9d66-468a-9d7b-527a4093a331
+UID:ical-def60fb2-9fbd-4c6b-85fb-de2718751da4
+DTSTART:20230526T150000
+DTEND:20230526T160000
+SUMMARY:PUBLICATIONS NATIONALES: Les prix de l’énergie payés par les établissements industriels en 2022 – Insee Première
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-0127ab17-28a2-49cb-920b-577f599e5bd1
+DTSTART:20230619T080000
+DTEND:20230619T090000
+SUMMARY:SSMSI: Analyse du temps d’accès aux lieux d'accueil de la police et de la gendarmerie nationales(InterstatsAnalyse)
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-23bbd0ce-46d6-40d8-abdc-3dec91266fc1
 DTSTART:20230526T120000
 DTEND:20230526T130000
 SUMMARY:Dares: 
@@ -114,7 +121,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4bd5a346-b035-470b-8596-55aa09675529
+UID:ical-f3f52e70-930f-44ae-8e58-cca83d1a4f84
 DTSTART:20230531T150000
 DTEND:20230531T160000
 SUMMARY:Dares: 
@@ -122,7 +129,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-16d1ebe6-19ec-4884-8c7f-e581c613e859
+UID:ical-1b96ba9d-0c3d-420e-9d76-658b26be4777
 DTSTART:20230608T073000
 DTEND:20230608T083000
 SUMMARY:Dares: 
@@ -130,7 +137,15 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ec31b3c9-5861-4b83-9ca9-9a7640e8a587
+UID:ical-a720152f-77ed-43f1-92dc-011c9c1c14e6
+DTSTART:20230615T150000
+DTEND:20230615T160000
+SUMMARY:Dares: 
+        Les emplois vacants au 1er trimestre 2023 (données définitives)
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-7f158b06-8b9e-417a-a725-8ffa1cd100d7
 DTSTART:20230616T084500
 DTEND:20230616T094500
 SUMMARY:Dares: 
@@ -138,7 +153,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-935e81ea-baf0-4fa6-a5dd-b90129070c78
+UID:ical-6974d28c-b36f-441d-a469-00beb98d8ac7
 DTSTART:20230627T120000
 DTEND:20230627T130000
 SUMMARY:Dares: 
@@ -146,7 +161,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7b5b3681-d4bd-41bc-91f5-35147856adde
+UID:ical-df6a64eb-f6db-447f-b44b-c85ea7b1750c
 DTSTART:20230630T150000
 DTEND:20230630T160000
 SUMMARY:Dares: 
@@ -154,7 +169,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-65df3aad-54dd-4c61-805c-26118c7cf74f
+UID:ical-1d33ec1a-531e-4da6-b89e-1ddcca642939
 DTSTART:20230705T150000
 DTEND:20230705T160000
 SUMMARY:Dares: 
@@ -162,7 +177,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-42586c8b-c252-47dc-88b9-0bae2c9b8def
+UID:ical-d15e68d2-82b0-4338-bf44-243829dcb881
 DTSTART:20230726T120000
 DTEND:20230726T130000
 SUMMARY:Dares: 
@@ -170,7 +185,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d8712083-0c26-4d3d-990b-490298e8f222
+UID:ical-b0fa01e5-ee8e-4ca3-96e6-7449e86c17ab
 DTSTART:20230726T120000
 DTEND:20230726T130000
 SUMMARY:Dares: 
@@ -178,7 +193,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b9d12a5a-5d6d-4af3-b4c9-f333eb7c20b4
+UID:ical-733ac800-0fca-4c1c-aee2-ebe35f324899
 DTSTART:20230731T150000
 DTEND:20230731T160000
 SUMMARY:Dares: 
@@ -186,7 +201,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7f59ea4c-ec45-47a4-82d0-6c91cff57f87
+UID:ical-aa592055-c6ae-42c7-a192-49a6831f25c3
 DTSTART:20230804T084500
 DTEND:20230804T094500
 SUMMARY:Dares: 
@@ -194,7 +209,23 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3c63b8c4-d8f8-468d-9184-4f4894f65f12
+UID:ical-ce656ecc-ff82-4eb2-9835-0b2377e6b813
+DTSTART:20230804T084500
+DTEND:20230804T094500
+SUMMARY:Dares: 
+        Évolution des salaires de base dans le secteur privé : résultats provisoires du 2e trimestre 2023
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-80b182dc-e95d-4809-ae22-2a6bfff442a2
+DTSTART:20230818T150000
+DTEND:20230818T160000
+SUMMARY:Dares: 
+        Les emplois vacants au 2e trimestre 2023 (données provisoires)
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-a3893853-f202-4747-8bf6-e675b3992ca2
 DTSTART:20230825T120000
 DTEND:20230825T130000
 SUMMARY:Dares: 
@@ -202,11 +233,43 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d872d769-801e-469a-a621-dc638b073489
+UID:ical-68e0d562-b6dd-4e62-9a1c-b16550385caa
 DTSTART:20230831T150000
 DTEND:20230831T160000
 SUMMARY:Dares: 
         Poem, le tableau de suivi des politiques de l'emploi à fin juin 2023
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-251a59b0-19aa-413d-b5dc-33c9b64b8f4d
+DTSTART:20230907T073000
+DTEND:20230907T083000
+SUMMARY:Dares: 
+        L'emploi intérimaire au 2e trimestre 2023 (et juin 2023 rectifié / juillet 2023 provisoire)
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-aa7db256-111e-4d97-a1d8-3776766e8f60
+DTSTART:20230914T150000
+DTEND:20230914T160000
+SUMMARY:Dares: 
+        Les emplois vacants au 2e trimestre 2023 (données définitives)
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-983f97ab-1161-4517-9376-aa3e56e2b805
+DTSTART:20230922T084500
+DTEND:20230922T094500
+SUMMARY:Dares: 
+        Évolution des salaires de base dans le secteur privé : résultats définitifs du 2e trimestre 2023
+      
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-34b1c73f-36fc-4ee1-b416-675558c4be14
+DTSTART:20230927T120000
+DTEND:20230927T130000
+SUMMARY:Dares: 
+        Les demandeurs d'emploi inscrits à Pôle emploi en août 2023
       
 END:VEVENT
 END:VCALENDAR
