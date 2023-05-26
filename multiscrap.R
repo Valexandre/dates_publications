@@ -71,8 +71,8 @@ sors_les_publis_ssmsi <- function() {
     html_elements(xpath = '//*[@id="col_principale"]/div[1]/div/div[3]') %>%
     html_elements("ul") %>%
     html_elements("li") %>% html_text()
-  
-  etudes_ssmsi_ok <- etudes_ssmsi[4:length(etudes_ssmsi)]
+ 
+  etudes_ssmsi_ok <- etudes_ssmsi[5:length(etudes_ssmsi)]
   dates_etudes_ok <- dates_etudes[5:length(dates_etudes)]
   
   SSMSI <- tibble(element = etudes_ssmsi_ok,
