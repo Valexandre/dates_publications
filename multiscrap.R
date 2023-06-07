@@ -183,7 +183,7 @@ Eurostat_tmp <- tibble(element = paste0(EuroStatFin$theme," - ",EuroStatFin$titl
 
 
 
-AllIndicateurs <- rbind(Insee, SSMSI, DARES,Eurostat_tmp)
+AllIndicateurs <- rbind(Insee, SSMSI, DARES,Eurostat_tmp)%>%filter(!is.na(date_embargo))
 
 #Envoie des maj des evenements
 events = ic_event(
