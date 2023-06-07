@@ -61,6 +61,7 @@ MetLesDatesSansHeureA8h <- function(chainedecaracteres) {
   bonneheure
 }
 
+
 sors_les_publis_ssmsi <- function() {
   pageindic <-
     read_html(pages_a_scraper$lien[pages_a_scraper$qui == "SSMSI" &
@@ -71,16 +72,19 @@ sors_les_publis_ssmsi <- function() {
     html_elements(xpath = '//*[@id="col_principale"]/div[1]/div/div[3]') %>%
     html_elements("ul") %>%
     html_elements("li") %>% html_text()
- 
-  etudes_ssmsi_ok <- etudes_ssmsi[5:length(etudes_ssmsi)]
-  dates_etudes_ok <- dates_etudes[5:length(dates_etudes)]
   
+  val_min<-min(c(length(etudes_ssmsi),length(dates_etudes)))
+  valmax<-max(c(length(etudes_ssmsi),length(dates_etudes)))
+  
+  etudes_ssmsi_ok <- etudes_ssmsi[(length(etudes_ssmsi)-5):length(etudes_ssmsi)]
+  dates_etudes_ok <- dates_etudes[(length(dates_etudes)-5):length(dates_etudes)]
   SSMSI <- tibble(element = etudes_ssmsi_ok,
                   date = dates_etudes_ok,
                   categorie = "SSMSI") %>%
     select(categorie, element, date) %>%
     rowwise() %>%
     mutate(date_embargo = MetLesDatesSansHeureA8h(date))
+    
   SSMSI %>% filter(!is.na(date_embargo))
 }
 SSMSI <- sors_les_publis_ssmsi()
