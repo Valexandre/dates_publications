@@ -136,7 +136,51 @@ sors_les_publis_dares <- function() {
 
 DARES <- sors_les_publis_dares()
 
-AllIndicateurs <- rbind(Insee, SSMSI, DARES)
+#Envoie des maj des evenements
+# rajotus eurostat
+pageeurostat<-"https://ec.europa.eu/eurostat/fr/news/release-calendar"
+PageChargee<-read_html(pageeurostat)
+
+# on prend le début et la fin du json
+Alltxt<-PageChargee%>%html_text()
+
+fin<-str_locate_all(Alltxt,"window.location.href")
+debut<-str_locate_all(Alltxt,"fullEvents")
+
+VersionJson<-substr(Alltxt,(debut[[1]][7,2])+3 , (fin[[1]][2,1])-23 )
+substr(VersionJson,1,30)
+
+Encoding(jsoncars)
+Encoding(jsoncars) <- "UTF-8"
+jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(
+  str_replace_all(iconv(str_replace_all(str_replace_all(str_replace_all(VersionJson,"\\\\n" , ""),
+                                                "\\\\t",""),"’",""),"UTF-8", "UTF-8",sub=''),'recordid:','"recordid":'),'title:','"title":'),'theme:','"theme":'),'period:','"period":'),'types:','"types":'),'preliminary:','"preliminary":'),'start:','"start":'),'end:','"end":'),'unit:','"unit":'),'euroindAuthor:','"euroindAuthor":'),'allDay:','"allDay":')
+
+jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsoncars,"'",'"'),"\\},\\]","}]"),
+                          "  \\]","]"),"  \\]","]")
+jsoncars<-substr(jsoncars,1,nchar(jsoncars)-10)
+
+fileConn<-file("agendaeurostat.json")
+writeLines(paste0(jsoncars,"}]"),fileConn)
+close(fileConn)
+
+AgendaEurostat<-jsonlite::fromJSON("agendaeurostat.json")
+
+EuroStatFin<-AgendaEurostat%>%
+  filter(start >= Sys.Date())
+
+
+Eurostat_tmp <- tibble(element = paste0(EuroStatFin$theme," - ",EuroStatFin$title),
+                    date = EuroStatFin$start,
+                    categorie = "Eurostat") %>%
+  select(categorie, element, date) %>%
+  rowwise() %>%
+  mutate(date_embargo =date) %>%
+  filter(!is.na(date_embargo))
+
+
+
+AllIndicateurs <- rbind(Insee, SSMSI, DARES,Eurostat_tmp)
 
 #Envoie des maj des evenements
 events = ic_event(
