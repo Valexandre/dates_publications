@@ -154,11 +154,10 @@ debut<-str_locate_all(Alltxt,"fullEvents")
 VersionJson<-substr(Alltxt,(debut[[1]][7,2])+3 , (fin[[1]][2,1])-23 )
 substr(VersionJson,1,30)
 
-Encoding(jsoncars)
-Encoding(jsoncars) <- "UTF-8"
 jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(
   str_replace_all(iconv(str_replace_all(str_replace_all(str_replace_all(VersionJson,"\\\\n" , ""),
                                                 "\\\\t",""),"’",""),"UTF-8", "UTF-8",sub=''),'recordid:','"recordid":'),'title:','"title":'),'theme:','"theme":'),'period:','"period":'),'types:','"types":'),'preliminary:','"preliminary":'),'start:','"start":'),'end:','"end":'),'unit:','"unit":'),'euroindAuthor:','"euroindAuthor":'),'allDay:','"allDay":')
+Encoding(jsoncars) <- "UTF-8"
 
 jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsoncars,"'",'"'),"\\},\\]","}]"),
                           "  \\]","]"),"  \\]","]")
