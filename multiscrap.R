@@ -34,13 +34,15 @@ RajouteAnneeADate <- function(chainedecaracteres) {
 }
 
 sors_les_publis_insee <- function() {
-  pageindic <-
+ pageindic <-
     read_html(pages_a_scraper$lien[pages_a_scraper$qui == "insee" &
                                      pages_a_scraper$quoi == "publications"])
   boites <- pageindic %>%
     html_elements("#produit-tableau-prog") %>%
     html_table() %>%
-    .[[1]] %>%
+    .[[1]] 
+  
+  boites<-boites[,1:3]%>%
     rename(categorie = 1,
            element = 2,
            date = 3) %>%
