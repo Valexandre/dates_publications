@@ -181,6 +181,9 @@ fileConn<-file("agendaeurostat.json")
 writeLines(jsoncars,fileConn)
 close(fileConn)
 
+
+AgendaEurostat<-jsonlite::fromJSON("agendaeurostat.json")
+
 EuroStatFin<-AgendaEurostat%>%
   filter(start >= Sys.Date())
 
