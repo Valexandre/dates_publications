@@ -157,16 +157,29 @@ VersionJson<-substr(Alltxt,(debut[[1]][7,2])+3 , (fin[[1]][2,1])-23 )
 substr(VersionJson,1,30)
 
 jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(str_replace_all(
-  str_replace_all(iconv(str_replace_all(str_replace_all(str_replace_all(VersionJson,"\\\\n" , ""),
-                                                "\\\\t",""),"’",""),"UTF-8", "UTF-8",sub=''),'recordid:','"recordid":'),'title:','"title":'),'theme:','"theme":'),'period:','"period":'),'types:','"types":'),'preliminary:','"preliminary":'),'start:','"start":'),'end:','"end":'),'unit:','"unit":'),'euroindAuthor:','"euroindAuthor":'),'allDay:','"allDay":')
+  str_replace_all(iconv(str_replace_all(str_replace_all(str_replace_all(VersionJson,"\\\\n" , ""),"\\\\t",""),"’",""),"UTF-8", "UTF-8",sub=''),'recordid:','"recordid":'),'title:','"title":'),'theme:','"theme":'),'period:','"period":'),'types:','"types":'),'preliminary:','"preliminary":'),'start:','"start":'),'end:','"end":'),'unit:','"unit":'),'euroindAuthor:','"euroindAuthor":'),'allDay:','"allDay":')
 Encoding(jsoncars) <- "UTF-8"
 
-jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsoncars,"'",'"'),"\\},\\]","}]"),
-                          "  \\]","]"),"  \\]","]")
+jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsoncars,"'",'"'),"\\},\\]","}]"),"  \\]","]"),"  \\]","]")
 jsoncars<-substr(jsoncars,1,nchar(jsoncars)-10)
 
+#locate the last comma after } to remove it
+douquelleestlavirgule<-str_locate_all(substr(jsoncars,(nchar(jsoncars)-40),nchar(jsoncars)),"\\},")
+virg<-unlist(douquelleestlavirgule)[1]
+
+
+jsoncars<-paste0(substr(jsoncars,1,((nchar(jsoncars)-40)+(virg-1))),"]")
+jsoncars
+
+# on veut enlever la virgule entre la dernière accolade fermante et l'accolade qu'on a rajouté
+
+jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsoncars,"'",'"'),"\\},\\]","}]"),"  \\]","]"),"  \\]","]")
+
+jsoncars<-str_replace_all(jsoncars,'\\/\\/\\"end\\"','"end"')
+jsoncars<-str_replace_all(jsoncars,"  "," ")
+
 fileConn<-file("agendaeurostat.json")
-writeLines(paste0(jsoncars,"}]"),fileConn)
+writeLines(jsoncars,fileConn)
 close(fileConn)
 
 AgendaEurostat<-jsonlite::fromJSON("agendaeurostat.json")
@@ -182,6 +195,7 @@ Eurostat_tmp <- tibble(element = paste0(EuroStatFin$theme," - ",EuroStatFin$titl
   rowwise() %>%
   mutate(date_embargo =date) %>%
   filter(!is.na(date_embargo))
+
 
 
 
