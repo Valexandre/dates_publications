@@ -169,7 +169,6 @@ virg<-unlist(douquelleestlavirgule)[1]
 
 
 jsoncars<-paste0(substr(jsoncars,1,((nchar(jsoncars)-40)+(virg-1))),"]")
-jsoncars
 
 # on veut enlever la virgule entre la dernière accolade fermante et l'accolade qu'on a rajouté
 
@@ -182,11 +181,8 @@ fileConn<-file("agendaeurostat.json")
 writeLines(jsoncars,fileConn)
 close(fileConn)
 
-AgendaEurostat<-jsonlite::fromJSON("agendaeurostat.json")
-
 EuroStatFin<-AgendaEurostat%>%
   filter(start >= Sys.Date())
-
 
 Eurostat_tmp <- tibble(element = paste0(EuroStatFin$theme," - ",EuroStatFin$title),
                     date = EuroStatFin$start,
