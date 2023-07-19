@@ -37,7 +37,7 @@ RajouteAnneeADate <- function(chainedecaracteres) {
 rien<-boites<-tibble(categorie = "",
                      element = "",
                      date = "",
-                     date_embargo="")
+                     date_embargo=lubridate::now())
 sors_les_publis_insee <- function() {
   pageindic <-
     read_html(pages_a_scraper$lien[pages_a_scraper$qui == "insee" &
