@@ -33,8 +33,12 @@ RajouteAnneeADate <- function(chainedecaracteres) {
   ymd_hms(retourchainecaracteres, locale = "fr_FR")
 }
 
+rien<-boites<-tibble(categorie = "",
+                     element = "",
+                     date = "",
+                     date_embargo="")
 sors_les_publis_insee <- function() {
- pageindic <-
+  pageindic <-
     read_html(pages_a_scraper$lien[pages_a_scraper$qui == "insee" &
                                      pages_a_scraper$quoi == "publications"])
   boites<-tibble(categorie = "",
@@ -53,10 +57,13 @@ sors_les_publis_insee <- function() {
     filter(element != "") %>%
     filter(date != "DATE D'EMBARGO") %>%
     rowwise() %>%
-    mutate(date_embargo = RajouteAnneeADate(chainedecaracteres = date))
-  boites
+    mutate(date_embargo = case_when(nrow(boites)>1~RajouteAnneeADate(chainedecaracteres = date),
+                                    TRUE~""))
+  print(paste0("Insee : ",boites$element))
+  return(boites)
 }
-Insee <- sors_les_publis_insee()
+safeinsee<-possibly(sors_les_publis_insee,otherwise = rien,quiet = TRUE)
+Insee <- safeinsee()
 
 ###################
 # scrapper ssmsi
