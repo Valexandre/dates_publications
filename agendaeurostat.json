@@ -11859,7 +11859,6 @@
 		
 		
 		
-		
 	
 	
 	                    {
@@ -32042,25 +32041,6 @@
 		
 		
 		
-	
-	
-	                    {
-	                    "recordid": "16847351",
-	                    "title": "New inflation dashboard",
-	                    "theme": "Economy and finance",
-	                    "period": "",
-	                    "types": [{"order":3,"label":"News article"}],
-	                    "preliminary": false,
-	                    "start": "2023-09-01T10:00:00Z",
-	                    "end": "2023-09-01T10:00:00Z",
-	                    "unit": "C4",
-	                    "euroindAuthor": "",
-	                    "allDay": true
-	                    },
-		
-		
-		
-		
 		
 		
 		
@@ -45660,8 +45640,8 @@
 	                    "period": "January 2023",
 	                    "types": [{"order":1,"label":"Data release"}],
 	                    "preliminary": false,
-	                    "start": "2023-08-16T10:00:00Z",
-	                    "end": "2023-08-16T10:00:00Z",
+	                    "start": "2023-09-20T10:00:00Z",
+	                    "end": "2023-09-20T10:00:00Z",
 	                    "unit": "E3",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -47808,8 +47788,8 @@
 	                    "period": "December 2022",
 	                    "types": [{"order":1,"label":"Data release"}],
 	                    "preliminary": false,
-	                    "start": "2023-08-18T10:00:00Z",
-	                    "end": "2023-08-18T10:00:00Z",
+	                    "start": "2023-09-13T10:00:00Z",
+	                    "end": "2023-09-13T10:00:00Z",
 	                    "unit": "E3",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -48899,7 +48879,7 @@
 	
 	                    {
 	                    "recordid": "16778935",
-	                    "title": "Production of vegetables, melons and strawberries",
+	                    "title": "Production of summer related fruits",
 	                    "theme": "Agriculture and fisheries",
 	                    "period": "2022",
 	                    "types": [{"order":3,"label":"News article"}],
@@ -49429,6 +49409,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "15569432",
+	                    "title": "Time to clean up",
+	                    "theme": "Industry, trade and services",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-30T10:00:00Z",
+	                    "end": "2023-09-30T10:00:00Z",
+	                    "unit": "G2",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 	
 	
@@ -49667,6 +49666,25 @@
 	                    "allDay": true
 	                    },
 		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "15582894",
+	                    "title": "Road freight statistics",
+	                    "theme": "Transport",
+	                    "period": "Q4/2022",
+	                    "types": [{"order":1,"label":"Data release"}],
+	                    "preliminary": false,
+	                    "start": "2023-07-20T10:00:00Z",
+	                    "end": "2023-07-20T10:00:00Z",
+	                    "unit": "E3",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -55013,8 +55031,8 @@
 	                    "period": "data up to December 2022",
 	                    "types": [{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
-	                    "start": "2023-08-18T10:00:00Z",
-	                    "end": "2023-08-18T10:00:00Z",
+	                    "start": "2023-09-13T10:00:00Z",
+	                    "end": "2023-09-13T10:00:00Z",
 	                    "unit": "E3",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -55219,7 +55237,6 @@
 		
 		
 		
-		
 	
 	
 	                    {
@@ -55263,6 +55280,26 @@
 		
 		
 		
+		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "17205530",
+	                    "title": "Peer review report on Greece",
+	                    "theme": "",
+	                    "period": "2023",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-07-20T10:00:00Z",
+	                    "end": "2023-07-20T10:00:00Z",
+	                    "unit": "B.TF",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -55334,6 +55371,7 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
+		
 		
 		
 		

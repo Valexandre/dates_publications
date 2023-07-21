@@ -4,13 +4,13 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:ical-8279c666-9ca1-40ba-9778-603ed9bd416e
-DTSTART:20230719T111154
-DTEND:20230719T121154
+UID:ical-75da5f02-fa30-47c2-b611-5f5411896d60
+DTSTART:20230721T061828
+DTEND:20230721T071828
 SUMMARY: 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-16eed5bc-b260-42aa-ab32-722ad75aeb32
+UID:ical-8ca25e83-b2f2-41d0-9f40-f94d9eedcbcb
 DTSTART:20230726T120000
 DTEND:20230726T130000
 SUMMARY:Dares: 
@@ -18,7 +18,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-52af38b5-60ae-4dcc-8904-a934c9811315
+UID:ical-aafa186e-f7cd-4403-a0af-9bbc633dea36
 DTSTART:20230726T120000
 DTEND:20230726T130000
 SUMMARY:Dares: 
@@ -26,7 +26,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-20a770f0-aaef-4e0a-8751-ad513b532cb1
+UID:ical-62ebdbda-42f0-4904-84d6-455f73b3b6a2
 DTSTART:20230731T150000
 DTEND:20230731T160000
 SUMMARY:Dares: 
@@ -34,7 +34,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-414a3c15-850d-439b-888b-57f565bae5a2
+UID:ical-c54ad289-eef6-407d-8ac9-19aab5a4fcff
 DTSTART:20230804T084500
 DTEND:20230804T094500
 SUMMARY:Dares: 
@@ -42,7 +42,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d7792e97-06dd-4d7b-959f-3d6ccacd8652
+UID:ical-2206ee29-3898-4ada-b1c7-dc88ad076b8e
 DTSTART:20230804T084500
 DTEND:20230804T094500
 SUMMARY:Dares: 
@@ -50,7 +50,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9c880a49-b0a7-4414-991a-10365dd32543
+UID:ical-35835117-4c91-4e94-a614-72cc24aa8adb
 DTSTART:20230818T150000
 DTEND:20230818T160000
 SUMMARY:Dares: 
@@ -58,7 +58,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-eb900c01-38f2-4a6e-8efc-48d38c56c0ff
+UID:ical-877e7350-eb59-4609-ae11-ad6a535b95f0
 DTSTART:20230825T120000
 DTEND:20230825T130000
 SUMMARY:Dares: 
@@ -66,7 +66,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-12fcad98-d778-421c-ba10-39a90c2c0887
+UID:ical-19622965-7a5e-4f9e-8855-14e1d233f707
 DTSTART:20230831T150000
 DTEND:20230831T160000
 SUMMARY:Dares: 
@@ -74,7 +74,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-50f53cbe-5b50-4711-81ff-93f092950eaf
+UID:ical-8804beb8-3b55-45b9-8924-393337ec9305
 DTSTART:20230907T073000
 DTEND:20230907T083000
 SUMMARY:Dares: 
@@ -82,7 +82,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c4108501-461c-4c80-a8df-85e03b8842e6
+UID:ical-4deb6933-e3d8-41f6-b0c3-be68ac17fe81
 DTSTART:20230914T150000
 DTEND:20230914T160000
 SUMMARY:Dares: 
@@ -90,7 +90,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-95342f26-bace-4382-acae-92ac25463fb4
+UID:ical-8c66a496-85d9-47fe-8e60-32658b0dbc2e
 DTSTART:20230922T084500
 DTEND:20230922T094500
 SUMMARY:Dares: 
@@ -98,7 +98,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fdf9d218-af4e-47b2-9448-c826811e1f12
+UID:ical-cf9374e1-0980-4480-ae52-48fb62a9f803
 DTSTART:20230927T120000
 DTEND:20230927T130000
 SUMMARY:Dares: 
@@ -106,7 +106,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9581b1a7-e1d8-4825-b497-642797da2435
+UID:ical-1c8d8432-2f56-421d-9f1e-a254b03e177b
 DTSTART:20230929T150000
 DTEND:20230929T160000
 SUMMARY:Dares: 
@@ -114,7 +114,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5b1d20a6-24be-4fd2-8ff2-b491649e9be3
+UID:ical-ed675411-4980-4796-a874-f92fd80555d3
 DTSTART:20231004T150000
 DTEND:20231004T160000
 SUMMARY:Dares: 
@@ -122,7 +122,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fcb7bbff-573c-4190-99fc-adff251c40ac
+UID:ical-e2bc913c-bce8-49a1-8aa2-8378311b8408
 DTSTART:20231025T120000
 DTEND:20231025T130000
 SUMMARY:Dares: 
@@ -130,7 +130,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-bcfae099-c0d2-474d-8809-3c580042aabc
+UID:ical-294b1b57-4ce3-4a7f-9d68-d87d8176150d
 DTSTART:20231025T120000
 DTEND:20231025T130000
 SUMMARY:Dares: 
@@ -138,7 +138,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-13dd1466-2a96-487d-97fc-d8b5c37c2b6c
+UID:ical-085b599a-0861-4281-91a8-4aa447ce4e43
 DTSTART:20231031T150000
 DTEND:20231031T160000
 SUMMARY:Dares: 
@@ -146,7 +146,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8896fb05-1d32-4517-b3aa-9dabf6d83560
+UID:ical-79521574-c558-42ca-bb1a-6e1b3f2f7fa5
 DTSTART:20231103T084500
 DTEND:20231103T094500
 SUMMARY:Dares: 
@@ -154,7 +154,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-41bd0786-d9c1-474a-99d8-cf03237c32c4
+UID:ical-3b646a5d-5385-4945-a9ca-101aacd35241
 DTSTART:20231117T150000
 DTEND:20231117T160000
 SUMMARY:Dares: 
@@ -162,7 +162,7 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0ac713ef-bbbb-447b-8932-0b4fb8485976
+UID:ical-768434a8-c6ad-40a8-99b2-82d9c8ac99b2
 DTSTART:20231127T120000
 DTEND:20231127T130000
 SUMMARY:Dares: 
@@ -170,1897 +170,1855 @@ SUMMARY:Dares:
       
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ec407efb-0317-4140-b1b2-e96a4f57a5b4
+UID:ical-d318884e-9251-4829-8ad9-a79af5bccf53
 DTSTART:21890510T000000
 DTEND:21890510T010000
 SUMMARY:Eurostat: Science, technology and digital society - R&amp;D expenditure 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9b020e9c-796b-49e7-bf86-d421f48689d8
+UID:ical-fdc90176-3567-4768-963e-8db355b4c317
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover index overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a2bd3fe4-9b85-4390-a2f7-d8c75e312fa4
+UID:ical-4a303537-29d5-4a50-9821-74442d3c7e1c
 DTSTART:20231101T000000
 DTEND:20231101T010000
 SUMMARY:Eurostat: Environment and energy - Material flows for the circular economy - estimates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d6169d1e-11ad-4ab6-8a1c-2a9b5c8deede
+UID:ical-49b688a7-74cb-4260-a078-516754e3b8e6
 DTSTART:20231102T000000
 DTEND:20231102T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Other slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f0dec24d-6ce8-4b10-8390-ca9c2f7a3d85
+UID:ical-5c2fe1c4-a458-4143-93f3-688488a9bddb
 DTSTART:20231106T000000
 DTEND:20231106T010000
 SUMMARY:Eurostat: Industry, trade and services - Building permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c05e98ff-9345-43e4-8490-501f06591ee0
+UID:ical-356b8c9f-af94-48ad-aa20-6d178ed30284
 DTSTART:20231106T000000
 DTEND:20231106T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5254fa12-c2eb-4d10-8882-5c15333f87c1
+UID:ical-c49b2361-ead3-43e3-86d9-3527affb5493
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Crop production from arable land  - crops
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-91d6a90b-772d-493d-8e77-1091594d33f7
+UID:ical-4b1dfcf0-afe3-43f9-ba01-34248e76366f
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Service production 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a523307c-d4db-4be6-accf-24699dd6c168
+UID:ical-0ed31732-65a1-412a-9dc3-4703865c2eeb
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Input to capture-based aquaculture
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f82140c4-397a-4674-8da5-e8b6abd735f7
+UID:ical-722f8c43-9dec-42e6-926c-b0b96b20ab48
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Production from aquaculture, excluding hatcheries and nurseries
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-730dd69b-414e-4717-8e56-8cfa5d065b33
+UID:ical-aa413414-03da-41a4-9b4a-8c4067bc821f
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Production of fish eggs for human consumption
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-83c597cf-e3e1-40ed-86c8-9aceb7f8f1bd
+UID:ical-d11f20b9-92ad-4acf-87f9-f4d70fd6429f
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Production of hatcheries and nurseries
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f201c74b-b66c-4598-bf82-23347f8d4c83
+UID:ical-943cc88c-736c-4080-aa3b-3c2ba2b6740d
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Service turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2e8ec4ac-c701-4618-a2c1-5cc33abc6a6a
+UID:ical-f4180b00-76b4-491a-9c2e-239642350abb
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f4681320-80cc-4f8d-a891-c3a83d257228
+UID:ical-54fc5579-2309-493b-ad5d-127a22a4909b
 DTSTART:20231116T000000
 DTEND:20231116T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Cows&#39; milk collection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fba3f611-9c26-436e-9484-4386487b8ded
+UID:ical-8c9709a2-ec41-4a12-bb4d-3a6b0ff1b819
 DTSTART:20231231T000000
 DTEND:20231231T010000
 SUMMARY:Eurostat: Economy and finance - PRO MEMORIA 20.07. Quarterly national accounts - GDP and employment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5f04ef0d-3e4e-4a2f-9e80-4b4f50f2cedc
+UID:ical-3c19f2d8-bc15-49b8-a670-e9580d9a9406
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Economic accounts for agriculture - regional
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f1979ccd-21b0-4ecf-ba99-b2f812599cef
+UID:ical-eb243fc7-714e-4d7b-bc84-e8eb3f261d63
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Eggs for hatching and chicks
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-30e4552a-0a03-4c8a-b9b6-2b46b1ae8111
+UID:ical-e094add4-c0a9-490e-816d-541f42d23fbb
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Environment and energy - Consumption of lightweight plastic bags
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dc69e2f7-2c7f-4d18-85d6-4614552be7fe
+UID:ical-05dcf215-8a16-47ea-8128-68443a5fa68a
 DTSTART:20240531T000000
 DTEND:20240531T010000
 SUMMARY:Eurostat: Environment and energy - Energy statistics - latest trends from monthly data
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0b3905e4-a221-4725-817f-5d4090b86683
+UID:ical-ff6456a2-bf07-48d4-aa77-d6f75a2b4bb3
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Transport - Rail statistics - freight transport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dfd409e0-0a17-4dab-ab7d-eb000e6d9610
+UID:ical-0594a35d-8f9a-4e96-aeb4-e88ab33c8cbc
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Transport - Rail statistics - passenger transport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-078ce764-7e4b-448d-b0fe-136006460445
+UID:ical-97d616ec-686b-4cdb-8294-0fb6e44811b3
 DTSTART:20230928T000000
 DTEND:20230928T010000
 SUMMARY:Eurostat: Population and social conditions - Children in migration - residence permits for family reasons
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5dd9dbc9-38cb-4156-9fe9-ab4b7c3089b0
+UID:ical-f5a69053-e9bd-4fd7-886c-6c26084dca4d
 DTSTART:20230823T000000
 DTEND:20230823T010000
 SUMMARY:Eurostat: General and regional statistics - Map tool IMAGE
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b52ad781-cb69-4a03-833d-c70d4faf15ae
-DTSTART:20230901T000000
-DTEND:20230901T010000
-SUMMARY:Eurostat: Economy and finance - New inflation dashboard
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-92e344ab-d7d7-4b54-a936-af73d4606c81
+UID:ical-8dc42551-0c2f-4c72-b7d8-662fafa872dd
 DTSTART:20231101T000000
 DTEND:20231101T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Eggs for hatching and chicks
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-75592498-b91a-4c72-bd1a-dc776e61ee4e
+UID:ical-77fbd652-6a65-41d6-b2e0-97401f6c5852
 DTSTART:20231101T000000
 DTEND:20231101T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a59d8d1a-92a6-4cd9-91f5-0614a8d5cea7
+UID:ical-95128b72-4b01-4ecb-a85d-0cfb651413ae
 DTSTART:20231101T000000
 DTEND:20231101T010000
 SUMMARY:Eurostat: Environment and energy - Circular material use rate - estimates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-61a2316b-d5a8-432a-9db0-c835e067a14c
+UID:ical-8233cd5b-4496-49cb-b87d-563eb73433f6
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Permanent crops  - citrus/olives
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-40e5fbf8-f0ab-4f12-99cb-a8be5c0bd13e
+UID:ical-a62d61ff-539c-41b4-bad6-0f4c7695882a
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - data on trips
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-81f105c1-86b4-4dd6-a7ae-9468b7b8c4b0
+UID:ical-feba4bc8-b6cb-44f8-9b7c-6f87ca96d803
 DTSTART:20240531T000000
 DTEND:20240531T010000
 SUMMARY:Eurostat: Population and social conditions - Early leavers from education and training
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8c789fb2-0974-47a6-86b1-12cfadab9a06
+UID:ical-6023c011-4258-4517-b414-0b314721b515
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, external and total
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dd150ea5-7b63-463b-9078-c960b1005621
+UID:ical-43a94250-1e1c-4886-9c3c-891fdd406524
 DTSTART:20231110T000000
 DTEND:20231110T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Economic accounts for agriculture
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f74056c6-0211-4fb2-b6ef-63c4fe805607
+UID:ical-f45ce613-760c-4a4c-bfe9-8ff248c309e4
 DTSTART:20231110T000000
 DTEND:20231110T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - number of commercial flights
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4ff686c8-68bb-4a95-8de5-e6c00fb83270
+UID:ical-0c3e4e7f-660a-48fc-a524-ec3606d2165c
 DTSTART:20231114T000000
 DTEND:20231114T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Milk on farms
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b1d80561-e58d-4b39-8d86-f55f471f2f2f
+UID:ical-9458408b-9b52-4c08-acbd-456e0d3e2061
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Population and social conditions - Health care expenditure 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-826bb3f0-b11c-480e-98ed-f96acf0da793
+UID:ical-17170789-f04d-4a23-be56-d3af06bd10f8
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - nights spent at tourist accommodation establishments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f3af0d29-d0fd-41ea-bc78-7d2184ec4c0c
+UID:ical-4357c919-a42f-4d75-991a-9ba494c21478
 DTSTART:20231117T000000
 DTEND:20231117T010000
 SUMMARY:Eurostat: Industry, trade and services - Business registrations and bankruptcies
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e6cb555b-8076-499e-a9e4-a86c768940f1
+UID:ical-8262f567-3421-4ec9-ba20-890719637b2d
 DTSTART:20231012T000000
 DTEND:20231012T010000
 SUMMARY:Eurostat: Population and social conditions - Foreign-born people and their descendants - household composition
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7633f3b7-b414-4ed2-8c42-3e2b7d7064b3
+UID:ical-f8856cf7-00b4-4a34-8806-aa83e9c8b5a2
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Population and social conditions - Labour market flows in the EU
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1759644e-3ee5-4dd2-a286-d77e5a74110d
+UID:ical-7f321495-8314-4063-a972-0a83c2c3c09a
 DTSTART:20231117T000000
 DTEND:20231117T010000
 SUMMARY:Eurostat: Population and social conditions - Job vacancy, flash estimates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a763ee8e-1cff-41bf-adf5-b84f81447453
+UID:ical-568172bf-8195-4511-9aab-3aebc6c32ac1
 DTSTART:20230825T000000
 DTEND:20230825T010000
 SUMMARY:Eurostat: Environment and energy - Greenhouse gas emissions - carbon footprints
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-030fa420-347c-486f-b444-c88f3067390e
+UID:ical-e6de75b4-99b6-45b7-8c4c-24eb6fddf016
 DTSTART:20230912T000000
 DTEND:20230912T010000
 SUMMARY:Eurostat: Population and social conditions - Surgical operations and procedures
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8b8927da-5c7c-405a-bca7-47d2a7a24447
+UID:ical-2b70e17c-fa1d-42fa-bf59-8dde473bdc51
 DTSTART:20231116T000000
 DTEND:20231116T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - socioeconomic situation of young people
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3b10c020-00be-4824-a8fa-646259d68c19
+UID:ical-067219ad-b654-4581-bcab-500fc4ac6a4a
 DTSTART:20230809T000000
 DTEND:20230809T010000
 SUMMARY:Eurostat: Population and social conditions - Use of ICT for cultural purposes
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a64ad612-a965-418f-a5ed-ed0b54867766
-DTSTART:20230720T000000
-DTEND:20230720T010000
-SUMMARY:Eurostat: Population and social conditions - Duration of working life
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-2b45f5de-074d-42aa-b7d6-11a7b6973280
+UID:ical-b4ff78ca-6f5e-4f85-892c-986c725d0819
 DTSTART:20230728T000000
 DTEND:20230728T010000
 SUMMARY:Eurostat: Population and social conditions - Employment in sport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dc79cd4d-bb3f-4c18-bc72-a5d7fa36ef5b
+UID:ical-dcb6244c-6cb1-4927-8456-368a1b0545af
 DTSTART:20231114T000000
 DTEND:20231114T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Crop production from arable land - cereals (final)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dced3365-78ee-4d36-8186-e97cbd237f01
+UID:ical-68cfef0d-80d1-44a6-8d98-9e8231a6d0b2
 DTSTART:20230803T000000
 DTEND:20230803T010000
 SUMMARY:Eurostat: Population and social conditions - Healthcare personnel - physicians
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d2ed708b-d65d-4798-a9a8-d5dbabc27cfb
+UID:ical-dae0b6ac-9e7c-4606-9405-2d8d7f174a27
 DTSTART:20240531T000000
 DTEND:20240531T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Pesticides Sales
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0f8c995c-760e-4724-8447-6701fbb49538
+UID:ical-11fc3709-f215-4d6a-b566-3680c7269a98
 DTSTART:20230728T000000
 DTEND:20230728T010000
 SUMMARY:Eurostat: Population and social conditions - Employment in culture
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-bf86c100-4d58-42d0-8b0b-80309868ee82
+UID:ical-2cf2d0c4-e9c4-4f00-b19f-b67c5121ce6f
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Population and social conditions - Countries responsible for asylum applications (Dublin Regulation)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-99ca31fb-f036-4651-9cc2-ac791b466d52
+UID:ical-842a4059-6b87-4d8f-8d0e-33b92a076188
 DTSTART:20230818T000000
 DTEND:20230818T010000
 SUMMARY:Eurostat: Population and social conditions - Healthcare personnel - dentists, pharmacists and physiotherapists
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-864c2d73-d04b-4735-a3be-93cddbf528d5
+UID:ical-a87c653d-dd45-4ec2-a633-fd3e2ca9c707
 DTSTART:20240430T000000
 DTEND:20240430T010000
 SUMMARY:Eurostat: General and regional statistics - European Neighbourhood Policy - South - transport 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-28e4623b-fe2c-49d0-af99-2d4a7dfc92bc
-DTSTART:20230719T000000
-DTEND:20230719T010000
-SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-c7643a68-0b0f-46ad-8e03-602dc0988d59
-DTSTART:20230720T000000
-DTEND:20230720T010000
-SUMMARY:Eurostat: Economy and finance - GDP and main aggregates / Employment - database update
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-0d86b4e6-fed2-4170-811f-d231d01d6221
+UID:ical-0c86fcf1-3a12-4806-887b-58da2f89eab1
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Economy and finance - Government debt
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9dbbaa63-a013-4cc4-aeb5-d310141e55ed
+UID:ical-41f4e4b6-70cf-4936-86dc-cd98c617d754
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Economy and finance - Government deficit
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e1b05d91-bfaa-45b1-95fc-e19dee0c5698
+UID:ical-64cf5ca7-f1a5-431d-8832-5f87ba98e9cf
 DTSTART:20230818T000000
 DTEND:20230818T010000
 SUMMARY:Eurostat: Industry, trade and services - Production in construction
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d8326320-e5c6-424a-86ce-8719a341307b
+UID:ical-05da151b-151a-4dbb-9cbf-20bfd5f4c510
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate inflation euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7a640758-4b54-4ce3-967e-2994b6461d84
+UID:ical-32b90935-c584-4416-bdda-a8c1808b5b73
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Population and social conditions - Unemployment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ee2d3882-dae1-4d97-89aa-4b22c8eed5f5
+UID:ical-752f4ebf-bbca-45cc-9fc4-f1895c5460c3
 DTSTART:20230905T000000
 DTEND:20230905T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, domestic market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a5b3accc-5cda-4828-a909-1a21cdc9a06a
+UID:ical-7377b76f-1bf1-4015-a7b5-3f777d4dd4fc
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Service turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4585fc5b-4f33-4993-b542-42825a2bbf87
+UID:ical-f022e56c-5d68-4183-82b2-86063381480c
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Retail trade
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cfdb5d3e-c4c2-4a0e-9937-8c5bb420ad06
+UID:ical-64dfb776-d9ee-4177-b4d1-edc0d7ae6ccb
 DTSTART:20230907T000000
 DTEND:20230907T010000
 SUMMARY:Eurostat: Economy and finance - GDP and main aggregates/Empl.
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1045cb2d-9fa4-421b-a336-96c36f5b3506
+UID:ical-eca8582e-598b-4d8e-af77-179604a6cb09
 DTSTART:20230913T000000
 DTEND:20230913T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-eaf71ce6-093d-4e39-aa49-d998393eb9f0
+UID:ical-0bae78b1-d426-4217-bb62-59531bad065b
 DTSTART:20230914T000000
 DTEND:20230914T010000
 SUMMARY:Eurostat: Population and social conditions - Job vacancy
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ae88bf93-3f41-4584-84df-7c307e2f7f84
+UID:ical-ef6c0d2d-5ca1-4e7a-a618-33608f889666
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: International trade - International trade in goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-40cca4bc-32ca-4d0a-beca-8209c745e671
+UID:ical-823d0610-55de-4ea8-9bea-dcec7e792e5f
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Population and social conditions - Labour cost index
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-330c416b-d347-4d67-9404-2bd2d5ee5e87
+UID:ical-1e1f25ec-acc4-4c43-8b6e-11f8c5e943a9
 DTSTART:20230919T000000
 DTEND:20230919T010000
 SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-68c5d24d-1189-4a1e-9a37-018216f510dc
+UID:ical-9659b4ae-8fda-4fba-99d1-448770412993
 DTSTART:20230920T000000
 DTEND:20230920T010000
 SUMMARY:Eurostat: Industry, trade and services - Production in construction
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1a0b0d90-9e48-4e6b-b319-9de6babdbb18
+UID:ical-05026ac4-c498-418e-87f3-efbf833567fc
 DTSTART:20230929T000000
 DTEND:20230929T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate inflation euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d2937e99-8edb-4c60-95e6-27376b48b226
+UID:ical-cc063331-b9d9-4c77-b065-fd0a47a14afa
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Population and social conditions - Unemployment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9e1a1396-7ebc-4980-b57b-2f17edf85202
+UID:ical-01d3165c-b0aa-4b44-a5ae-3b18ce003796
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Economy and finance - House price index
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ba632532-e189-4708-8cf9-7c0667e7d4e9
+UID:ical-ea164cf0-1a1e-4027-a893-44a79fda15d5
 DTSTART:20231004T000000
 DTEND:20231004T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, domestic market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-74c470c3-bb7d-4807-8262-b2f6bb8fd3e5
+UID:ical-0fb48688-2814-4003-a898-bb48e698369a
 DTSTART:20231004T000000
 DTEND:20231004T010000
 SUMMARY:Eurostat: Industry, trade and services - Retail trade
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7aa59ad8-88e4-44af-b6ba-9a9326680abe
+UID:ical-ae02eaf1-0bbe-472d-9052-696acb960485
 DTSTART:20231005T000000
 DTEND:20231005T010000
 SUMMARY:Eurostat: Economy and finance - First release sectoral accounts (households and business)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-aac49397-14aa-4a69-b3bb-31ffa64ea94b
+UID:ical-bd84bab6-27cb-49b9-b762-dad2a531a274
 DTSTART:20231005T000000
 DTEND:20231005T010000
 SUMMARY:Eurostat: Economy and finance - Balance of payments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3097a591-726e-49fe-8a2a-951995fbe085
+UID:ical-1f3ccd9d-cd2c-4bda-a81d-981d7d767fb9
 DTSTART:20231006T000000
 DTEND:20231006T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial import prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d5096fb1-00b0-4905-a3db-44e3025f93b1
+UID:ical-612492b4-de43-450f-b228-0465d7ffd220
 DTSTART:20231016T000000
 DTEND:20231016T010000
 SUMMARY:Eurostat: International trade - International trade in goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-01452c33-f4ec-4b94-adb2-2a23bfa05926
+UID:ical-96d5b5fe-6cf3-49cc-94cc-f17cfb9cf938
 DTSTART:20231103T000000
 DTEND:20231103T010000
 SUMMARY:Eurostat: Population and social conditions - Unemployment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-146798a8-d4e4-49ce-a65b-41d3ea96ad90
+UID:ical-67e6c761-850b-4ec2-9d09-2878df2d9a24
 DTSTART:20231107T000000
 DTEND:20231107T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, domestic market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-98f5af07-125b-49cb-bf0f-5feff1317794
+UID:ical-513ab163-7160-47d9-b4d1-c78611e4f5d8
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: International trade - International trade in goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-50577aae-59a4-4043-836a-cbf778b87af4
+UID:ical-db418f0f-6726-4492-80f3-de82ba438a01
 DTSTART:20231117T000000
 DTEND:20231117T010000
 SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-11aa1715-8626-47a8-be1f-19b29d355cfe
+UID:ical-923bd1c0-a332-43e6-b5d0-f0c7cfd3e6c3
 DTSTART:20231207T000000
 DTEND:20231207T010000
 SUMMARY:Eurostat: Economy and finance - GDP and main aggregates/Empl.
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-17d5d66b-dbf7-4160-8331-77fe20d2f81f
+UID:ical-4c68f0f2-bdf3-44ac-8753-b5a0689d3bda
 DTSTART:20231213T000000
 DTEND:20231213T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5c0323f8-b379-4d7c-8dff-57daa60c711c
+UID:ical-562b211c-4a82-45ca-867d-992d753c0924
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: International trade - International trade in goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e22fb0d6-3ef9-42b2-9906-d556c5f3b1a1
+UID:ical-db9764ee-bf27-4bf9-b0d9-bc1161e48249
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Population and social conditions - Labour cost index
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1094e76b-aebf-4f5d-a052-881fcdb8a91c
+UID:ical-1da84384-9f9a-497f-b6e3-69c404811399
 DTSTART:20231219T000000
 DTEND:20231219T010000
 SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0394e4ad-e026-4e4b-8f0c-d8645f6eec92
+UID:ical-36a2ed27-abc3-4323-8b0b-fe44c1d84794
 DTSTART:20231220T000000
 DTEND:20231220T010000
 SUMMARY:Eurostat: Industry, trade and services - Production in construction
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2adf6388-21e2-4bdd-b7ae-d557cb81dfa8
+UID:ical-c1642d90-4828-418c-81c1-cd0f6b78fa14
 DTSTART:20230727T000000
 DTEND:20230727T010000
 SUMMARY:Eurostat: Economy and finance - Second release sectoral accounts (households)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-24813784-34c8-470c-afd4-a81ca752565b
+UID:ical-fb0a2ff5-e4fb-443f-b551-561d1d3e374c
 DTSTART:20230731T000000
 DTEND:20230731T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate inflation euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-207cb26b-ce8f-427b-89ff-e7bb486f2337
+UID:ical-9a90ce56-7845-44ff-9bc7-9dc9e61ecbbf
 DTSTART:20230731T000000
 DTEND:20230731T010000
 SUMMARY:Eurostat: Economy and finance - Preliminary Flash Estimate GDP - EU and euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5ef993c2-9ca2-4b96-aa1e-3d353790422d
+UID:ical-32e5268f-9fb3-48dd-a047-32c4962ef8de
 DTSTART:20230801T000000
 DTEND:20230801T010000
 SUMMARY:Eurostat: Population and social conditions - Unemployment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-87dc1f92-5132-41d6-876e-858a399a79a0
+UID:ical-09adf29c-17c5-4599-93eb-c2788df9b38d
 DTSTART:20230803T000000
 DTEND:20230803T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, domestic market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-bf199a22-31d2-4e43-9141-9aade9c18c73
+UID:ical-35865518-dc02-4182-b64c-cffc2ce1d75f
 DTSTART:20230804T000000
 DTEND:20230804T010000
 SUMMARY:Eurostat: Industry, trade and services - Retail trade
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-93b9e597-6199-421f-b31c-0e01065ede9f
+UID:ical-bfde4e17-6dc7-4374-87d1-5e4a8a6a30df
 DTSTART:20230807T000000
 DTEND:20230807T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial import prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-60287dbe-90d9-4c3a-bece-a30271ea5165
+UID:ical-863341a4-f5d7-4713-ae62-919e79a646c7
 DTSTART:20230816T000000
 DTEND:20230816T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate GDP and employment - EU and euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-56147fc4-9d30-42f7-9ead-625f31d949e5
+UID:ical-91a3f0fd-65b5-423e-a3dd-0ab15b345cd2
 DTSTART:20230816T000000
 DTEND:20230816T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8f5d3419-54a2-42aa-9d51-67c04d47dbf8
+UID:ical-0853b44c-73ed-4a22-9a64-fd5f958215b8
 DTSTART:20230818T000000
 DTEND:20230818T010000
 SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2926960b-dd27-4f30-9d2e-6fe5589a9f49
+UID:ical-b530ebef-0fd7-4632-af89-5b73850826b7
 DTSTART:20231018T000000
 DTEND:20231018T010000
 SUMMARY:Eurostat: Economy and finance - Inflation (HICP)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8337aa05-8d45-4d3e-b279-255f4e1946b7
+UID:ical-41334f1c-ba8f-4202-a2d9-73a6efd9971e
 DTSTART:20231018T000000
 DTEND:20231018T010000
 SUMMARY:Eurostat: Industry, trade and services - Production in construction
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-aabcd6e8-f0e6-4949-b7c2-108a47c9bf34
+UID:ical-a4bcf122-aa0a-47d8-b06c-2199d45e8ee4
 DTSTART:20231019T000000
 DTEND:20231019T010000
 SUMMARY:Eurostat: Economy and finance - GDP and main aggregates/Employment - database update
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-13e2d401-cb2b-40b2-a443-bcc4a793695a
+UID:ical-9446cd3d-129a-456f-8e56-7672b28ea41e
 DTSTART:20231023T000000
 DTEND:20231023T010000
 SUMMARY:Eurostat: Economy and finance - General government deficit and debt
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c1cd0981-5846-4d12-b810-2c5fd5153fec
+UID:ical-bbec17c7-31c2-4ada-ae28-d95e79c39953
 DTSTART:20231023T000000
 DTEND:20231023T010000
 SUMMARY:Eurostat: Economy and finance - Government debt
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d92cd9fe-2611-4031-a4ac-60a355435bf0
+UID:ical-e50d89eb-f307-4c8a-b789-64cd67fceebb
 DTSTART:20231023T000000
 DTEND:20231023T010000
 SUMMARY:Eurostat: Economy and finance - Government deficit
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-869e1fc7-0417-444d-9708-db6b62d6a7f8
+UID:ical-fb14ce9e-aea4-4c47-89b6-b1b6cc764ce4
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate inflation euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8894f05a-7078-40ec-af23-5779766450b0
+UID:ical-ad4e098e-bfeb-44ea-be38-4e762f1777bc
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Retail trade
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e158bfb4-5561-47a2-ac1c-eb914d7448ab
+UID:ical-8ba0e9da-1a17-45a5-b530-b321621f4679
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Transport - Rail transport safety statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4cd95b1e-a154-42de-8c64-2ee27fff73e8
+UID:ical-6aea45fd-dfac-4257-b232-76f49ffe8bb0
 DTSTART:20231114T000000
 DTEND:20231114T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate GDP and employment - EU and euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2fa5965a-f487-42bc-8f51-07f45d711f18
+UID:ical-b89649cb-5466-4954-859e-066b8f82556e
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2b8f519e-23ee-4567-a10f-7bb2dddbc9ec
-DTSTART:20230720T000000
-DTEND:20230720T010000
-SUMMARY:Eurostat: Population and social conditions - Number of enterprises in arts and entertainment in the EU
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-c040e50d-8e2e-4147-8937-5b3e4cc19afe
+UID:ical-39675304-88ab-4d07-aecc-7fe37b874d3f
 DTSTART:20230731T000000
 DTEND:20230731T010000
 SUMMARY:Eurostat: Environment and energy - Material flow accounts - material footprints
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7f9ca9ec-1128-40fe-8537-141c03d8b180
+UID:ical-f4defc64-8772-4114-beb0-a3893d24d08d
 DTSTART:20231026T000000
 DTEND:20231026T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - housing
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a6b5c099-5892-41c9-9828-ffe40e65b5a3
+UID:ical-16380a31-b1be-43f4-b0df-231b9b159e41
 DTSTART:20230914T000000
 DTEND:20230914T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - active citizenship
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c1d97c7c-6b69-4885-822b-6dcbd2912704
+UID:ical-dedf9716-aef2-4010-992a-63ffaf84b0d1
 DTSTART:20230822T000000
 DTEND:20230822T010000
 SUMMARY:Eurostat: Environment and energy - Municipal waste
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7df214d9-9728-4cbf-b45b-f8e1cf34dda4
+UID:ical-0c00b84d-5300-4369-9f98-6d123b678ad8
 DTSTART:20230926T000000
 DTEND:20230926T010000
 SUMMARY:Eurostat: Population and social conditions - Healthcare resources - beds
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8e4afd99-000d-428c-b4e2-8a16a7f96575
-DTSTART:20230719T000000
-DTEND:20230719T010000
-SUMMARY:Eurostat: Industry, trade and services - Production in construction
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-15f9995f-ab6a-4c7d-9da7-1aa514427318
+UID:ical-347357fd-74a9-45e2-b955-89fcae2c3681
 DTSTART:20231013T000000
 DTEND:20231013T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5ccea63c-b09b-4c39-a1fd-e9b20cbd821a
+UID:ical-3597de35-6e10-44c4-a6c1-ffd7c3b4c7bb
 DTSTART:20231027T000000
 DTEND:20231027T010000
 SUMMARY:Eurostat: Economy and finance - Second release sectoral accounts (households)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7e0ac1ef-f1c8-4308-b474-b0a6869629a8
+UID:ical-3d6159b8-52d9-41bf-80bd-a00ee219a3ea
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Economy and finance - Preliminary Flash Estimate GDP - EU and euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0037c815-8598-43c5-993b-2f8d00fa80f1
+UID:ical-d60e399d-066e-4a7e-ba6f-c4bc74a43898
 DTSTART:20231120T000000
 DTEND:20231120T010000
 SUMMARY:Eurostat: Industry, trade and services - Production in construction
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-12679244-c68c-477c-af69-df6059267e98
+UID:ical-39b41292-c82d-4fe3-a514-ffe6f1471b71
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Economy and finance - Flash Estimate inflation euro area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-822dd23d-368a-4ab1-a5f2-68cd458d728d
+UID:ical-c9e08340-2e64-4a50-93a0-f8b2766bb36d
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Population and social conditions - Unemployment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8975ea2d-da7d-4298-89a5-2d92d061a5f7
+UID:ical-b52ea2f8-096a-4f85-9c46-7375f1a84af1
 DTSTART:20231205T000000
 DTEND:20231205T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, domestic market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-aaa7afde-ac86-4e05-b16f-1b989568f7c6
+UID:ical-83be29ef-639c-4ac8-80d6-a3ea32f73b78
 DTSTART:20231206T000000
 DTEND:20231206T010000
 SUMMARY:Eurostat: Industry, trade and services - Retail trade
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e97d282c-e107-44f4-a30f-e27f283305b5
+UID:ical-fbe97eb8-3130-4cc0-83a7-5917ff9085a2
 DTSTART:20231207T000000
 DTEND:20231207T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial import prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ee0e9564-1765-401c-8ac2-5b27f67d063d
+UID:ical-b517120b-6d89-4a3d-9c2d-81158a7f99fa
 DTSTART:20231218T000000
 DTEND:20231218T010000
 SUMMARY:Eurostat: Population and social conditions - Job vacancy
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-83a555ac-7347-4c47-9917-0a3490f19482
+UID:ical-dae6a797-7b62-4570-8e2c-ffeafa6c857f
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Science, technology and digital society - Digitalisation and ICT security in enterprises
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-afce85f1-74ad-4fa4-bcbf-34842977ebc2
-DTSTART:20230816T000000
-DTEND:20230816T010000
+UID:ical-f306ec30-c932-4da7-83dc-eb3557b4c9e1
+DTSTART:20230920T000000
+DTEND:20230920T010000
 SUMMARY:Eurostat: Transport - Air transport - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0ff6c4fb-30cb-4e96-b9dd-5d6a4e4b3b72
+UID:ical-f3d78440-6c86-4313-b4cf-66cf05324148
 DTSTART:20230726T000000
 DTEND:20230726T010000
 SUMMARY:Eurostat: Environment and energy - Environmental taxes by economic activity
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c8c4c996-54d4-43c9-8d1b-287bd7be636b
+UID:ical-6fd513ab-6f57-43e5-8d3e-9a0acd31f2bd
 DTSTART:20230816T000000
 DTEND:20230816T010000
 SUMMARY:Eurostat: Industry, trade and services - Nights spent at tourist accommodation establishments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1d8ff775-e288-4e89-b26b-ff58a2f555c7
+UID:ical-92cb55b2-02e5-480d-a42b-b736fa598dad
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Transport - Air transport - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0f0d110b-b9aa-4f90-9522-efc13101df46
+UID:ical-49bb0377-7f4a-4beb-9c63-010fa20bbfda
 DTSTART:20230919T000000
 DTEND:20230919T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Bovine, sheep and goat production forecasts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-65cf0e06-423c-4b78-91fd-d275ee3acd87
+UID:ical-3ec29e4b-1b44-4c77-b211-95b3bd321d67
 DTSTART:20231004T000000
 DTEND:20231004T010000
 SUMMARY:Eurostat: Science, technology and digital society - Research and development (R&amp;D)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-57553ea2-d3bd-4683-8ae0-9c54490a283a
+UID:ical-eee4943b-5c1b-4829-a276-7d7813cd11bc
 DTSTART:20230929T000000
 DTEND:20230929T010000
 SUMMARY:Eurostat: International trade - Trade by enterprise characteristics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6f02630e-2aea-425f-91d8-76ec8e1b1570
+UID:ical-4882166b-609e-4ecf-86e8-7d093489671c
 DTSTART:20230930T000000
 DTEND:20230930T010000
 SUMMARY:Eurostat: Environment and energy - Patents related to waste management and recycling
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5ed9cfd5-18cb-4f86-bbc6-d688643a5c63
+UID:ical-edfe19ac-6df5-43d5-90da-b4998e0fe40f
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Industry, trade and services - Short-stay accommodation offered via online collaborative economy platforms - EU, national data &amp; capital cities
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-57937836-7b3b-46d1-90d7-c1e530e95b6f
+UID:ical-c9c5fa32-4676-4624-8cad-99ebd2a0927c
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-37e6fdb7-9757-4a11-aa7b-80b4c6805981
+UID:ical-61a9fb1e-a641-42ff-bece-367a897ae5ac
 DTSTART:20231016T000000
 DTEND:20231016T010000
 SUMMARY:Eurostat: Transport - Maritime transport safety statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-95d92663-a99e-44c6-927b-b87b4bf635dc
+UID:ical-e5c0b91f-f827-4eb9-8088-5d1f2b438834
 DTSTART:20231018T000000
 DTEND:20231018T010000
 SUMMARY:Eurostat: Population and social conditions - Accidents at work 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-13596f9f-acdd-4141-873c-d26f2001bf1d
+UID:ical-09096458-9d73-4879-b22a-a66f06eb7960
 DTSTART:20231023T000000
 DTEND:20231023T010000
 SUMMARY:Eurostat: Economy and finance - Excessive Deficit Procedure and annual Government Finance Statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a75599d4-42b7-423f-ab58-4be6f6673584
+UID:ical-a4b1932d-80c8-4365-9a01-8c3961fd32cb
 DTSTART:20231030T000000
 DTEND:20231030T010000
 SUMMARY:Eurostat: Transport - Maritime statistics - freight
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-992db3be-add4-4e35-8cc4-0d3290b268b5
+UID:ical-ad46dde8-5bd3-4311-8e0a-ed5b3e679828
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Economy and finance - Taxation
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fb5ad35d-a988-4683-8efd-e0b2a914faa3
+UID:ical-49a9074e-310d-4c4b-ab71-426747da150a
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Structure of dairies
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-02e7653e-aaf9-4a40-99a2-a30e8fcac725
+UID:ical-94fd0a32-b925-4c68-9cb6-269f03f73a4a
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Transport - Road freight statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4df00ac4-8bd3-403f-af7d-1a94f40fdcc9
+UID:ical-f7f2643d-0623-4fd5-83c7-4b854b965e00
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Transport - Inland waterways statistics - freight transport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9d551d2d-4519-4896-991f-a362886cb9ff
+UID:ical-f7ca34f2-1ba3-4303-b2dd-3f8b4628c76d
 DTSTART:20230801T000000
 DTEND:20230801T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1ee1d1d9-10d9-42d3-97b4-0cddb89e9f30
+UID:ical-0e72aa5b-e272-45ad-ba6b-81362a8f4f28
 DTSTART:20230802T000000
 DTEND:20230802T010000
 SUMMARY:Eurostat: Industry, trade and services - Building permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c0b9cfce-f01b-4d1a-b81b-f3dadd9f051c
+UID:ical-497b3fa7-685e-4bb0-bc69-33faf5817dc5
 DTSTART:20230802T000000
 DTEND:20230802T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-833a4f84-8c5f-49cc-85bc-1aa20667cea2
+UID:ical-e12100fe-43a1-4982-93c8-c7fef2f3a810
 DTSTART:20230804T000000
 DTEND:20230804T010000
 SUMMARY:Eurostat: Industry, trade and services - Service production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0d0a8709-0809-428c-a503-d4e52a089b38
+UID:ical-2b37dc58-61f3-465a-9c14-1fd6444e8050
 DTSTART:20230804T000000
 DTEND:20230804T010000
 SUMMARY:Eurostat: Industry, trade and services - Service turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3f67b316-b921-4748-911a-64fc06e069e6
+UID:ical-d8848678-0804-4b3c-a7b4-22af43041acb
 DTSTART:20230807T000000
 DTEND:20230807T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, external and total
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-be9e4fd1-122b-49ff-aa65-f2bd9461bbd9
+UID:ical-1640a6ff-26a4-48b2-a921-fd2816094f56
 DTSTART:20230911T000000
 DTEND:20230911T010000
 SUMMARY:Eurostat: Transport - Air transport - number of commercial flights
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f0ea31f0-456d-4a64-95ae-cdd168e16a67
+UID:ical-85c14629-a956-498c-b946-577cdbbf3a48
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Industry, trade and services - Nights spent at tourist accommodation establishments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d4d3a7e0-21e4-45db-ac24-c70cccffbc00
+UID:ical-917d0739-a02b-4335-9eb1-a13b54b3dd6b
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Transport - Air transport safety
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e3f4f378-bce0-4922-a283-c9d50c2546d6
+UID:ical-f72fdafa-0691-4cfc-abab-03a08c3d4d0e
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Milk and milk product statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7f79bdfd-dcb7-4d9a-bb09-c48ba5e95f1a
+UID:ical-3386e0cf-eaf3-42e1-a5f3-c059e8747f63
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2f689ba8-074c-4a64-bd37-ce0cdb84d08b
+UID:ical-492fdaaf-5650-4de0-bf94-27d82b56cc2c
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Other slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-01704689-c2bd-4604-8033-58f7852ef426
+UID:ical-64767f94-a773-453c-92c3-e15bcf92bcdd
 DTSTART:20231005T000000
 DTEND:20231005T010000
 SUMMARY:Eurostat: Industry, trade and services - Service production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c1f94d97-1c23-4ef0-a478-79ac4fdedcf8
+UID:ical-93d8ee18-6509-4cad-a881-29d0c0151dc6
 DTSTART:20231015T000000
 DTEND:20231015T010000
 SUMMARY:Eurostat: Environment and energy - Packaging waste
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-50dd1f54-7833-4052-a80a-d27de6169a32
+UID:ical-31fb2912-8c27-44b1-9d6f-e2f96fe2978f
 DTSTART:20230825T000000
 DTEND:20230825T010000
 SUMMARY:Eurostat: Population and social conditions - Foreign-born people and their descendants - main characteristics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ce6329be-e845-4fd8-b581-267eaeea8b52
+UID:ical-2a8d97da-f8a5-4994-a770-b6b71dea445a
 DTSTART:20231009T000000
 DTEND:20231009T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Regional production of cows&#39; milk
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a90ab81a-8749-4325-bf49-4919263a11dd
+UID:ical-2dc74541-1945-4121-850a-4212b1ed071d
 DTSTART:20231006T000000
 DTEND:20231006T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, external and total
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-14e43043-ba7a-498b-934c-66055fe55e7b
+UID:ical-b5894a2a-c23f-487a-aa17-8bccbf02035e
 DTSTART:20231010T000000
 DTEND:20231010T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - number of commercial flights
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-674ab734-88c3-4424-9750-c0384ef3757f
+UID:ical-39779f2b-9a87-4a64-8564-86d9642657b4
 DTSTART:20231016T000000
 DTEND:20231016T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - nights spent at tourist accommodation establishments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4b813093-9f4b-4d81-a376-532f9f0baa9a
+UID:ical-8cce878f-9d5b-495d-a5d9-19e9161a5020
 DTSTART:20231016T000000
 DTEND:20231016T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4c383eb9-4581-4500-a9d7-e012bcfcd04e
+UID:ical-b011e609-aa5a-4b4a-b2c2-f18f76fc17fe
 DTSTART:20231017T000000
 DTEND:20231017T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Cows&#39; milk collection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-05081ec8-4462-46b8-8bbc-a0a0e0f89fce
+UID:ical-a9941e4b-b591-4b5a-9e33-05483880d09d
 DTSTART:20231018T000000
 DTEND:20231018T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Pig and bovine populations
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2787b346-2ab3-44e1-b2b8-6345671e7d57
+UID:ical-acf4707f-a59a-429d-9860-cb2fb8d7f55f
 DTSTART:20231025T000000
 DTEND:20231025T010000
 SUMMARY:Eurostat: Industry, trade and services - Crop production from arable land  - crops
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-824a50e2-8492-4e73-a394-bb1f47cb87f0
+UID:ical-a99c07b8-2efa-46d0-96fc-051691f5bfb1
 DTSTART:20231025T000000
 DTEND:20231025T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - data on participation
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-977098db-549c-4256-8c66-08760e180a33
+UID:ical-9e5da897-e2d1-4505-9ff5-29f9fbbf16da
 DTSTART:20231027T000000
 DTEND:20231027T010000
 SUMMARY:Eurostat: Industry, trade and services - Structural Business Statistics - 2021 final data
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-63974201-11b4-4abd-bfce-a2c442151445
+UID:ical-18276a7f-8551-46a9-a590-c2c182ee0ba7
 DTSTART:20231027T000000
 DTEND:20231027T010000
 SUMMARY:Eurostat: Industry, trade and services - Business demography - final data
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e0eee73b-e00c-42d9-b5df-100f980b5489
+UID:ical-507d139a-187b-4526-893c-f7dbd3fcdde6
 DTSTART:20231031T000000
 DTEND:20231031T010000
 SUMMARY:Eurostat: Population and social conditions - Social protection expenditure
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-603aef2a-681b-472d-b910-582f696c9dce
-DTSTART:20230719T000000
-DTEND:20230719T010000
-SUMMARY:Eurostat: Environment and energy - Environmental protection expenditure accounts
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-4655b0fb-dd74-49c0-bf11-fa4144559c16
+UID:ical-049e7e6e-c734-442a-961f-13a4251c0b57
 DTSTART:20230829T000000
 DTEND:20230829T010000
 SUMMARY:Eurostat: Population and social conditions - Healthcare activities - consultations
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3e929356-7c80-4ed3-93c4-4b03c36ddb2e
+UID:ical-5f9bd945-6081-4d99-bec8-183d75f45a6f
 DTSTART:20230731T000000
 DTEND:20230731T010000
 SUMMARY:Eurostat: General and regional statistics - Regional aggregates by typologies
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-635a0efb-fef1-4fd3-8bb4-5f149c83a7a8
+UID:ical-2b0fc2bc-037b-4dd8-9614-b0db812a0afd
 DTSTART:20230810T000000
 DTEND:20230810T010000
 SUMMARY:Eurostat: Population and social conditions - Employment rates of recent graduates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3a1cff1a-eb30-404b-88c5-f40a7a815c4e
+UID:ical-091eb0e8-c147-460d-bbc6-0e1f4e245e3c
 DTSTART:20230811T000000
 DTEND:20230811T010000
 SUMMARY:Eurostat: General and regional statistics - Young Europeans Tool
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-612d051f-3b6e-4da0-9761-ce4fe24c8e2d
-DTSTART:20230818T000000
-DTEND:20230818T010000
+UID:ical-d334128a-9273-4d66-b596-4511e5957892
+DTSTART:20230913T000000
+DTEND:20230913T010000
 SUMMARY:Eurostat: Transport - Air transport - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c2345805-cce9-4d55-b494-6ad0521698fd
+UID:ical-68c8a049-43b0-48b6-910b-9ae707e84346
 DTSTART:20230817T000000
 DTEND:20230817T010000
 SUMMARY:Eurostat: Industry, trade and services - Business registrations and bankruptcies
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8835093c-bfb1-462a-9ed1-f92d916e2d6c
+UID:ical-e4294666-54fd-4cac-834b-480e570afbbe
 DTSTART:20230818T000000
 DTEND:20230818T010000
 SUMMARY:Eurostat: Population and social conditions - Job vacancy, flash estimates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c5f6a70a-6dc0-4bf2-bd31-ba8fa89aa1a1
+UID:ical-1074a102-8c88-4620-91e3-4f63ec94ccac
 DTSTART:20230904T000000
 DTEND:20230904T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Production of eggs for consumption
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5bffb31d-dc5b-4dd7-b24f-a1e5797d77bc
+UID:ical-ee7e1cf8-db6c-4ba5-b82b-9b58db4aa2f0
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, external and total
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d76c0a4f-f8e1-48dd-b14b-18fdad468384
+UID:ical-c848d3e2-3cd6-46a7-bcd5-8552e8280fed
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Catches in North-East Atlantic
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6e1ab234-18c0-4898-81d4-83bda7e1303b
+UID:ical-1f2a4f2d-b6c1-4dbc-8a4f-bdc9090ebf7a
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Catches in areas other than North Atlantic
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ec243448-be34-4ec9-babd-b026cd5e0844
+UID:ical-2f8d6e22-5e28-4d2a-b71a-23517fd59097
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Landings of fishery products
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0128545a-d4a0-4c8b-90b9-ed80407d5e11
+UID:ical-3d32d0ed-e666-4f05-bb60-bd4b850e2f8c
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Economy and finance - Sector accounts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-84a7b987-8ce4-42ca-b041-198b7dd80b25
+UID:ical-36fcd9a9-aabb-43ed-9198-3a865cac9fe9
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-37c0f4eb-ab3e-4199-8f7f-9abfcff2bcf5
+UID:ical-70809a44-7d84-4b9e-9b94-5f08627e7ad5
 DTSTART:20230802T000000
 DTEND:20230802T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Other slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-962b543a-9cb2-45f5-8e2a-b1d20ef55ddc
+UID:ical-0dfc23cc-0184-475a-9631-712306abd8b2
 DTSTART:20230804T000000
 DTEND:20230804T010000
 SUMMARY:Eurostat: Population and social conditions - First residence permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4954bbf8-594e-45fb-9c58-af7a115fb823
+UID:ical-329a241d-9c1c-493b-ac00-bca6e232597d
 DTSTART:20230804T000000
 DTEND:20230804T010000
 SUMMARY:Eurostat: Science, technology and digital society - Government budget allocations for R&amp;D (GBARD)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-41562f5e-b04c-4797-a934-f088ef007b9d
+UID:ical-424710a6-bdd2-4a07-9d3d-5de57127233f
 DTSTART:20230810T000000
 DTEND:20230810T010000
 SUMMARY:Eurostat: Transport - Air transport - number of commercial flights
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-12b86653-a027-4a42-b12b-d92ea5d068ea
+UID:ical-eb26ddee-4bfe-4e68-9fc4-ace52670c96f
 DTSTART:20230816T000000
 DTEND:20230816T010000
 SUMMARY:Eurostat: International trade - International trade in goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-95e757f9-6556-4059-8d7d-8910a51f4a54
+UID:ical-bbc78c31-e3a6-41c1-96b3-a7c81810a9a3
 DTSTART:20230817T000000
 DTEND:20230817T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Cows&#39; milk collection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c886f3b0-d134-4e5a-8415-951c2d93792a
+UID:ical-242b7ad9-1be2-46b4-9919-fdd9c9876b9b
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Service production
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4097d8e7-7506-48ef-ba5c-bc61741d428e
+UID:ical-a42d2415-debe-41f7-a551-75bddb7b6215
 DTSTART:20240531T000000
 DTEND:20240531T010000
 SUMMARY:Eurostat: Environment and energy - Final energy consumption in industry 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3b27529f-a55f-498e-8e07-3fb733e5f7c2
-DTSTART:20230720T000000
-DTEND:20230720T010000
-SUMMARY:Eurostat: Agriculture and fisheries - Production of vegetables, melons and strawberries
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-94764f77-7384-47e5-9364-6ef362f59d18
+UID:ical-0430cfe5-2595-48d6-b4e5-b71994b1df5c
 DTSTART:20230801T000000
 DTEND:20230801T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Eggs for hatching and chicks
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9bd3eb45-525a-4272-a7a0-942a04babca0
+UID:ical-9f44ce16-ebaa-4162-a7a1-6848d8cba0d4
 DTSTART:20230918T000000
 DTEND:20230918T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Cows&#39; milk collection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dd4b40df-fc03-44ef-a8cf-b5d859577c96
+UID:ical-f2493525-9ffa-4e39-b4d9-6351fcf63052
 DTSTART:20230919T000000
 DTEND:20230919T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Pig production forecasts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d59bbcf1-13b1-4660-86e1-ed0c472cfd45
+UID:ical-aa7fc955-465c-4fc7-a774-e3eeaee10068
 DTSTART:20231001T000000
 DTEND:20231001T010000
 SUMMARY:Eurostat: Environment and energy - End of life vehicles
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fb452e15-7b1e-477b-9289-87bcd127e794
+UID:ical-98cb6e48-0517-4ece-ba51-5719f82e6b96
 DTSTART:20231001T000000
 DTEND:20231001T010000
 SUMMARY:Eurostat: Environment and energy - Sales, collection and recycling of portable batteries and accumulators
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8769ef47-5e63-41af-810f-8223476c08ca
+UID:ical-8d28a126-983c-49de-be5e-bb38183a5861
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Catches in North-West Atlantic
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f281b345-f89c-4e42-a830-57cf7bfd7246
+UID:ical-cf54f39a-7d03-4a52-929f-46cef695bd29
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Eggs for hatching and chicks
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-674d05c2-382a-4247-bd9b-35f32224d4cf
+UID:ical-1e314961-9dce-436e-a717-f32295bc866c
 DTSTART:20231002T000000
 DTEND:20231002T010000
 SUMMARY:Eurostat: Industry, trade and services - Short-stay accommodation offered via online collaborative economy platforms - regional data
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-24124fcd-6fbc-4751-b6a0-a9d92efae981
+UID:ical-1d82e00b-f2aa-434f-a52c-4252ede2f1d4
 DTSTART:20231005T000000
 DTEND:20231005T010000
 SUMMARY:Eurostat: Industry, trade and services - Service turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-95b19323-39f6-4cfb-a90d-61a265ea9cf5
+UID:ical-965cba3b-70b9-4d94-b125-d8ba6ec78f41
 DTSTART:20231027T000000
 DTEND:20231027T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - accommodation statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-99195d39-068e-494d-a2be-222f33d207bb
+UID:ical-b1c254f5-11bf-49c1-9c10-8b59306e1c9d
 DTSTART:20230816T000000
 DTEND:20230816T010000
 SUMMARY:Eurostat: Environment and energy - Greenhouse gas emissions
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4588a6d9-284d-4a4a-9587-043af7ed022e
+UID:ical-39f65850-6cfd-4c68-be8f-ca3d2a00d8a9
+DTSTART:20230930T000000
+DTEND:20230930T010000
+SUMMARY:Eurostat: Industry, trade and services - Time to clean up
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-a442e941-6db1-4555-9828-9f15e0db91f2
 DTSTART:20230724T000000
 DTEND:20230724T010000
 SUMMARY:Eurostat: Industry, trade and services - Production of manufactured goods
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cb9b9f62-4651-4434-95ea-52a60fdad3ae
+UID:ical-4461587c-e22a-4d76-8f3b-9ba0e9e20a75
 DTSTART:20230731T000000
 DTEND:20230731T010000
 SUMMARY:Eurostat: Environment and energy - Material flow accounts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2b3e4213-f648-4ded-aae6-fd26b3f274e2
+UID:ical-47c0b814-382d-4cc4-8c6a-6f9cdb4850ce
 DTSTART:20230821T000000
 DTEND:20230821T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Activity of dairies
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c0f2524a-49d4-4c26-ab0a-cecdf1f48278
+UID:ical-47dcf87d-25b8-46de-a2d2-3b7be99abdae
 DTSTART:20230830T000000
 DTEND:20230830T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Eggs for hatching and chicks
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-edb933a0-b97f-4df9-b09c-9caf7132404d
+UID:ical-3f40a784-1484-4d5c-abb9-695170c77fc1
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e8db58de-bf12-4ecc-9927-ac5fb133a860
+UID:ical-04309189-3aa1-4f34-b10b-ff50ae8408ee
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Transport - Rail - freight and passenger transport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-30bf2f77-c99e-4fb8-b9bc-8cd299a24fee
+UID:ical-32526837-3614-44fa-8f17-f2dd1998ae53
 DTSTART:20230904T000000
 DTEND:20230904T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Other slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-519a3714-7c34-4df2-b000-79e5891e4870
+UID:ical-d595646b-16df-490c-8c5d-e5365f05771a
 DTSTART:20230904T000000
 DTEND:20230904T010000
 SUMMARY:Eurostat: Industry, trade and services - Building permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-5c16fe36-f332-41f0-895b-fc671ac8bbdf
+UID:ical-4ec3c5f6-10be-4caa-8530-e9a5b81c6885
 DTSTART:20230904T000000
 DTEND:20230904T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9add6e56-64f8-4b2c-b00f-a977b2032d65
+UID:ical-23e8ca7a-876a-4866-96e1-cf92da6519e0
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Population and social conditions - LFS main indicators, LFS series &#8211; Detailed quarterly survey results
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-82ca534f-b3e0-43b6-a079-dbfaac545988
+UID:ical-65087812-32ff-4cd5-9122-cdfde9f4d911
 DTSTART:20230926T000000
 DTEND:20230926T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Agricultural price indices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0b90e1e8-3e6e-4d1d-ac94-a10095bd0cfb
+UID:ical-cf90c6a9-ff2d-4611-9783-367158cc093a
 DTSTART:20230929T000000
 DTEND:20230929T010000
 SUMMARY:Eurostat: Transport - Road freight
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-31794df6-201c-49e6-93e9-b934c734df45
+UID:ical-5b2cc169-dccb-4a18-9da5-e448e9d1b91c
 DTSTART:20231001T000000
 DTEND:20231001T010000
 SUMMARY:Eurostat: Environment and energy - Food waste and food waste prevention
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fae0bffb-68be-453f-b05d-9ca39efaaebb
+UID:ical-4622f9c0-f4ae-43a2-a110-b12673e8177c
 DTSTART:20231201T000000
 DTEND:20231201T010000
 SUMMARY:Eurostat: Economy and finance - Annual FDI positions by ultimate counterpart
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f52ddb67-cdad-455c-b3fa-91b5264884f5
+UID:ical-f4bc1c12-e440-47fe-b87a-266d62f0f9eb
 DTSTART:20231206T000000
 DTEND:20231206T010000
 SUMMARY:Eurostat: Industry, trade and services - Service production 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-30083f17-9608-42c2-9017-4aa0cd67a60d
+UID:ical-530fe6d3-c1e0-4630-8049-686e9bcef285
 DTSTART:20231211T000000
 DTEND:20231211T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - number of commercial flights
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-135faabc-c78f-4c6f-9896-020754a7f7e3
+UID:ical-98047604-e7ee-4efa-b517-9ced256e1e45
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Industry, trade and services - Tourism statistics - nights spent at tourist accommodation establishments
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1e2213c6-6530-4c46-b3ca-f2ba939f7d4d
+UID:ical-75d0391a-3fa6-41be-b147-3e685dc88806
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Population and social conditions - Excess mortality statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6cbe13b8-4052-4c20-95e3-2aae2430ceed
+UID:ical-3c6451e9-2e17-4cee-be50-c65f32ee7a6b
 DTSTART:20231222T000000
 DTEND:20231222T010000
 SUMMARY:Eurostat: Population and social conditions - Immigration law enforcement
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-472f6bba-ab86-4af2-8714-eb6e2cc9f335
+UID:ical-d4b17fc8-6067-455c-a748-d722d5d80d48
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - regional labour market indicators
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4d15ffa0-87f1-4ab8-9dca-944fd7785f25
+UID:ical-f524d778-522d-4b40-847a-de1cd246bcd5
 DTSTART:20240214T000000
 DTEND:20240214T010000
 SUMMARY:Eurostat: Economy and finance - Business cycle clock
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cd0ab3ba-469d-44e2-84bf-ca087d28ddc0
+UID:ical-f67cc3a0-da3d-4979-bf1a-0e59372a68bf
 DTSTART:20231207T000000
 DTEND:20231207T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial producer prices, external &amp; total
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-840a4951-9cad-4aae-b9bf-def9710e8ec1
+UID:ical-4d519499-36a0-4bf0-a7d8-6484bf7bdac5
 DTSTART:20231214T000000
 DTEND:20231214T010000
 SUMMARY:Eurostat: Economy and finance - Revised purchasing power parities
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2998b0e1-51e8-455b-87be-80441b6ecf92
+UID:ical-f5d981d4-e2bf-42f8-8e41-bffca39dc7b5
 DTSTART:20231116T000000
 DTEND:20231116T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - health
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-85aa810a-f2dc-4d14-b6ce-006437eb6a15
+UID:ical-55f68668-af74-4f6a-89ed-b8c43f1eddda
 DTSTART:20230817T000000
 DTEND:20230817T010000
 SUMMARY:Eurostat: Economy and finance - European Statistical Recovery Dashboard
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4724bc28-94fd-449a-b1e6-2acdf55a2a80
+UID:ical-6bd13ab3-430d-488c-a792-e46aa8f77ae6
 DTSTART:20230727T000000
 DTEND:20230727T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - persons overqualified for their jobs
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6f41d90d-3591-4fea-af15-61dda8cc61c9
+UID:ical-bf3d9ad9-8b1b-4607-9b1f-b19a5c475c34
 DTSTART:20231116T000000
 DTEND:20231116T010000
 SUMMARY:Eurostat: Population and social conditions - Early Estimates of Social Protection Main Indicators - sickness and healthcare
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-22d042dc-67ca-44c7-bfc9-774977d2f5fd
+UID:ical-36fb8968-a6ee-411e-bc4c-c44a3f166a61
 DTSTART:20230927T000000
 DTEND:20230927T010000
 SUMMARY:Eurostat: Science, technology and digital society - R&amp;D expenditure
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2ee1e178-5532-472e-b72c-c6f6b1e45906
+UID:ical-0ef5ca92-07fb-4623-a02b-c9d49e150f8a
 DTSTART:20231201T000000
 DTEND:20231201T010000
 SUMMARY:Eurostat: Science, technology and digital society - Research and development (R&amp;D)
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-70624fe7-a041-4c87-aceb-eef6dfe6c27f
+UID:ical-3b5789ea-7634-4cfe-b3d5-2ca13787e778
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-250abaa6-6a27-4e79-8ecf-281ea7da5bad
+UID:ical-0ff0e6e2-71f5-4284-82ea-4270e9b9b8ef
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Economic accounts for agriculture - first estimates
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d5bc6f2e-d869-45a3-aba5-abf32a3ac90a
+UID:ical-99408fff-1bf3-4b08-9f3c-d6b33f2fee2a
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Population and social conditions - LFS main indicators&#34;, &#34;LFS series &#8211; Detailed quarterly survey results
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6dd2410f-14b5-4652-b29f-e18a5875c7e7
+UID:ical-11802829-e5d0-4b5b-9447-d6656c0a4952
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Science, technology and digital society - Use of ICT in households and by individuals - Individual&#39;s digital skills 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3f616f8f-b1d8-445d-991d-fb3dd4ef2d99
+UID:ical-8d371a2e-8b97-48fb-80cb-0224a7b9762c
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Transport - Maritime passenger statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-78e69f80-4213-42d8-a92b-3eba10b56d0f
+UID:ical-938df5b7-83e2-4570-9587-a633f83b0490
 DTSTART:20231110T000000
 DTEND:20231110T010000
 SUMMARY:Eurostat: Population and social conditions - Weekly deaths statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-bf0db6b4-d501-44e0-a66d-a7ca3c9d5ab4
+UID:ical-1d1c1535-9d31-4081-bb0e-81efb252ab6e
 DTSTART:20231006T000000
 DTEND:20231006T010000
 SUMMARY:Eurostat: Population and social conditions - Temporary protection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-30233111-48ed-497a-8e7b-cdc6a11a526c
+UID:ical-7ee00514-ea6d-4e1d-a8aa-a063610623d3
 DTSTART:20231207T000000
 DTEND:20231207T010000
 SUMMARY:Eurostat: Population and social conditions - Temporary protection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-83382a9b-2e8f-42e3-bf05-4f57486c3996
+UID:ical-235f16c9-079d-41ac-8eba-9a61a0ce7b02
 DTSTART:20231001T000000
 DTEND:20231001T010000
 SUMMARY:Eurostat: Environment and energy - Waste electrical and electronic equipment
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-113cb060-b72d-41c0-a8f8-ca16fbe677e3
+UID:ical-e9679217-81a4-4adf-b83f-2579efa5dc28
 DTSTART:20230919T000000
 DTEND:20230919T010000
 SUMMARY:Eurostat: Economy and finance - European Statistical Recovery Dashboard
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9159eb53-15ab-4da2-97c9-cc97fea69c72
+UID:ical-13900d54-0d55-40bd-80cc-7af4662dba8c
 DTSTART:20230825T000000
 DTEND:20230825T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4092c57c-a4ac-49b9-8517-a000171296e8
+UID:ical-8a85f13f-b481-4b1c-bf76-1b927132f145
 DTSTART:20230926T000000
 DTEND:20230926T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fae8af38-f2c1-439b-8d85-8ca551109ffd
+UID:ical-b7dc3c56-ebcb-4b73-bd98-637f7547c3df
 DTSTART:20231025T000000
 DTEND:20231025T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4fcf93ec-7571-4db9-8a1f-19f24a2b38ed
+UID:ical-35aea3e5-276f-4538-8020-a754c879b93e
 DTSTART:20230906T000000
 DTEND:20230906T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial import prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-ef7f3437-516c-4256-b485-e5e6fcc0b840
+UID:ical-352ad454-0ca4-4f46-9e21-1f2b3ea0e4d1
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Industry, trade and services - Building permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d3eeb316-7456-4584-a646-362382abadd1
+UID:ical-bbb4ab52-261f-4343-9552-d3c2dbd92015
 DTSTART:20231003T000000
 DTEND:20231003T010000
 SUMMARY:Eurostat: Industry, trade and services - Service producer prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-368da84c-d725-41ac-aa53-6329d7b12d8d
+UID:ical-912ddf85-8e8d-46e2-bf96-fcbe51744d06
 DTSTART:20231130T000000
 DTEND:20231130T010000
 SUMMARY:Eurostat: Transport - Rail statistics - freight and passenger transport
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-36748bc0-b68e-4ee7-a5b3-7547a51798ce
+UID:ical-da5200fd-806a-4c4f-a7e5-85cafc0d4725
 DTSTART:20231204T000000
 DTEND:20231204T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Other slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-925bf0a3-0d36-4858-ab38-1f18bfbc982f
+UID:ical-819cf393-e2d1-4bdd-a1db-9e7bd302b6a1
 DTSTART:20231204T000000
 DTEND:20231204T010000
 SUMMARY:Eurostat: Industry, trade and services - Building permits
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-689a0622-ecfa-40a3-bac3-ed83c253d020
+UID:ical-101d361a-7b5f-45f6-8225-8b9e2a340b38
 DTSTART:20231207T000000
 DTEND:20231207T010000
 SUMMARY:Eurostat: Transport - Air transport statistics - passengers, freight and mail
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-b1024568-f5c6-4c2b-84af-b3c20d9fea27
+UID:ical-1591d8b3-70fe-45d0-ad9b-a9c6ed0decd8
 DTSTART:20231216T000000
 DTEND:20231216T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Land prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-aa07f5ca-dadc-4b95-8895-dc4284af2204
+UID:ical-529ada7a-e24a-4b08-af17-678815138992
 DTSTART:20231221T000000
 DTEND:20231221T010000
 SUMMARY:Eurostat: Environment and energy - Forestry statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6992cd61-7d3b-49d2-a5cd-52b84df7f4b8
+UID:ical-953a470c-1697-432c-ae46-5a0a33bbddd0
 DTSTART:20231221T000000
 DTEND:20231221T010000
 SUMMARY:Eurostat: Environment and energy - Air emission accounts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d1155f34-9007-4793-ae0b-9f9dd8a6c115
+UID:ical-637d9594-153a-491f-b1fa-40fac26c7bcd
 DTSTART:20230809T000000
 DTEND:20230809T010000
 SUMMARY:Eurostat: Population and social conditions - Temporary protection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3f4b5575-50b9-4c52-8ae7-208bd6b5d2ad
+UID:ical-e9c15758-fe9c-42e0-bb31-291a86115583
 DTSTART:20231116T000000
 DTEND:20231116T010000
 SUMMARY:Eurostat: Population and social conditions - Excess mortality statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9b3344ca-a20e-4991-97dc-7d677b89cee9
+UID:ical-84fcbd94-5618-4683-98ce-d56251e8dcdd
 DTSTART:20230725T000000
 DTEND:20230725T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-29deabb8-ce64-4ab3-8494-b7f153d7d63b
+UID:ical-5f58fe44-eef4-4149-adef-c279af34b8d5
 DTSTART:20231125T000000
 DTEND:20231125T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2f5c3e46-e08e-4a01-97c9-dc0bcc81ba1d
+UID:ical-12547f15-2f61-4e5a-869b-36457c210dc5
 DTSTART:20231222T000000
 DTEND:20231222T010000
 SUMMARY:Eurostat: Population and social conditions - Asylum applications
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dfc7940c-58f2-4cb7-86d8-d1db70a1ad16
+UID:ical-54a4af7a-f418-470c-8ee2-b84f35a01dc8
 DTSTART:20230929T000000
 DTEND:20230929T010000
 SUMMARY:Eurostat: Population and social conditions - Immigration law enforcement
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cd91687c-75ff-4d0c-aa12-beecc6a21ddf
+UID:ical-d341ae80-3e30-49e6-87af-cda04ae5319b
 DTSTART:20231023T000000
 DTEND:20231023T010000
 SUMMARY:Eurostat: Economy and finance - Quarterly GFS, financial accounts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7677c0fc-ec38-4011-9193-831370ad3f59
+UID:ical-48a37cfd-01e7-436f-9287-5f6bcdc2144c
 DTSTART:20231206T000000
 DTEND:20231206T010000
 SUMMARY:Eurostat: Industry, trade and services - Service turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3a3039d8-fe2d-4806-9940-ee6b37d01015
+UID:ical-e3a211d8-3044-492e-8b25-4be21ea5408d
 DTSTART:20231115T000000
 DTEND:20231115T010000
 SUMMARY:Eurostat: Economy and finance - Business cycle clock
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7442bb7e-22f4-4297-9818-29929a57723a
+UID:ical-3b996016-50c5-4a40-8410-e96cfa823887
 DTSTART:20231201T000000
 DTEND:20231201T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Slaughtering
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-537d1d48-48aa-4642-8a66-a2ce35e1fdf2
+UID:ical-22984d51-6273-44b4-8812-9e95c3d2f43e
 DTSTART:20231204T000000
 DTEND:20231204T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial turnover
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6f9e782f-412c-4169-ad4a-0fee81234e05
+UID:ical-0fd18548-d0ac-43c7-b0d8-0fb64401cd12
 DTSTART:20231214T000000
 DTEND:20231214T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Crop production from arable land  - regional
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-4b252e23-9599-4318-98bf-cb85318bbdb1
+UID:ical-75ef0753-a0da-4d86-826b-5cbb89244a8f
 DTSTART:20231212T000000
 DTEND:20231212T010000
 SUMMARY:Eurostat: Population and social conditions - Weekly deaths statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-415d0026-de45-4e8b-82d4-b3cb249f977b
+UID:ical-d820c5dc-3a55-474b-860d-fac97793194d
 DTSTART:20230912T000000
 DTEND:20230912T010000
 SUMMARY:Eurostat: Population and social conditions - Weekly deaths
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8b71121e-d904-46cc-98c7-63f7b531524b
+UID:ical-8d54c4e5-8f6c-4317-87db-7a83bd31ee9b
 DTSTART:20231010T000000
 DTEND:20231010T010000
 SUMMARY:Eurostat: Population and social conditions - Weekly deaths statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9d4fbfb5-b3fc-48c4-b96b-206e51cf64ec
+UID:ical-3ce75774-0d1c-469f-8c8f-54b203b706f1
 DTSTART:20231218T000000
 DTEND:20231218T010000
 SUMMARY:Eurostat: Environment and energy - Energy efficiency
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-15e17c70-3228-4272-a275-05240684a0c8
+UID:ical-e2111748-1dc3-4e4e-a8ea-3e902c39fcfe
 DTSTART:20231220T000000
 DTEND:20231220T010000
 SUMMARY:Eurostat: Environment and energy - Annual share of renewable energy
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a2287048-3b83-4a68-8878-283012757fff
+UID:ical-bc74f674-521d-4343-b52d-d20e0923017e
 DTSTART:20230907T000000
 DTEND:20230907T010000
 SUMMARY:Eurostat: Population and social conditions - Temporary protection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-84ddb91b-0a07-409d-8405-513a33d1e04f
+UID:ical-fb135e99-75ca-4667-b291-d3ff211e80d4
 DTSTART:20231017T000000
 DTEND:20231017T010000
 SUMMARY:Eurostat: Economy and finance - European Statistical Recovery Dashboard
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fd3549e6-072d-4f6e-8f8b-c402f20f8624
+UID:ical-ca96c27b-3c82-4d63-aec3-64a5a356b81b
 DTSTART:20231117T000000
 DTEND:20231117T010000
 SUMMARY:Eurostat: Economy and finance - European Statistical Recovery Dashboard
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6cc662b6-1f16-419c-9073-390adcc047b0
+UID:ical-3ae6aff4-f6da-4719-96c7-c3cef9ba494c
 DTSTART:20231025T000000
 DTEND:20231025T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9beb255f-8947-4eaf-a49d-6ddb49da373d
+UID:ical-a7523878-9837-4454-9dca-7816c59fb5ee
 DTSTART:20231215T000000
 DTEND:20231215T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9798dc10-95de-411f-8437-0e07065fb484
+UID:ical-427cd652-00cb-4562-960f-848e3d208dda
 DTSTART:20231109T000000
 DTEND:20231109T010000
 SUMMARY:Eurostat: Population and social conditions - Early Estimates of Social Protection Main Indicators - overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-8c8a340e-7f6b-407b-b1cb-4c9ce9ebc698
+UID:ical-6f41b377-8d11-40ca-951c-0eeb4991095d
 DTSTART:20230810T000000
 DTEND:20230810T010000
 SUMMARY:Eurostat: Population and social conditions - Weekly deaths
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9ae78b4c-f548-4a5b-8387-5ab3f86b3863
+UID:ical-b6bbc66c-6a59-4a3f-a5af-787a570df707
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Economy and finance - Government Finance Statistics, financial accounts
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-981d6e3c-cf5f-4b5e-b9eb-573db0b723b9
+UID:ical-9012cce3-6ac1-4821-b5df-77d7bfe54e7c
 DTSTART:20230721T000000
 DTEND:20230721T010000
 SUMMARY:Eurostat: Population and social conditions - Minimum wage
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-fa132850-647c-4848-8b97-1edf43fe3351
+UID:ical-5625998f-da2d-42ea-a57d-66b50b14e398
 DTSTART:20230811T000000
 DTEND:20230811T010000
 SUMMARY:Eurostat: Economy and finance - Business cycle clock
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-32d3ba3d-198a-497f-b10a-ff699fbde7f8
+UID:ical-e65cb520-200f-465b-a783-2da593c80edf
 DTSTART:20230825T000000
 DTEND:20230825T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9d9eaa27-4e61-4803-843a-ce5d715a5c22
+UID:ical-f9263c5a-6eda-4f3e-ab34-dd77181d6ef3
 DTSTART:20230926T000000
 DTEND:20230926T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9e3cb663-1f5d-42c8-accc-43a80e94cff6
+UID:ical-7426a715-2b3e-41bb-bc1d-199e60b6ed52
 DTSTART:20231124T000000
 DTEND:20231124T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-c4c64bab-7f1c-4150-b150-1fce863bfc3d
+UID:ical-7c3ef890-809f-4139-8134-ac129b30df8c
 DTSTART:20231208T000000
 DTEND:20231208T010000
 SUMMARY:Eurostat: Science, technology and digital society - ICT usage and e-commerce in enterprises: cloud computing
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-d2eb93e4-aad3-414b-80b8-d26850f7f7ca
+UID:ical-a6ca2647-27f7-42d2-b4c5-53de838eaba2
 DTSTART:20231214T000000
 DTEND:20231214T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Crop production on utilised agricultural area  - main area
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0b3779be-4e84-4b82-afb6-7c840759136a
+UID:ical-552e98d0-355a-4a05-9ff1-2b6891593b59
 DTSTART:20231218T000000
 DTEND:20231218T010000
 SUMMARY:Eurostat: Population and social conditions - Occupational diseases 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-dc0b4a37-2d54-4d18-82c0-d2d3388ede36
+UID:ical-1b3eb23c-475d-4574-a490-871b890872f7
 DTSTART:20231219T000000
 DTEND:20231219T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Cows&#39; milk collection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-92c81055-1560-4fe8-aebb-02e17b9004ff
+UID:ical-5782d83a-5163-4ded-a6ed-1f263cbbef21
 DTSTART:20231228T000000
 DTEND:20231228T010000
 SUMMARY:Eurostat: Agriculture and fisheries - Agricultural price indices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-7e8c8e30-b5e2-40eb-827c-a9afc198b231
+UID:ical-034abc1e-bca2-422b-9915-b2c495d05c1b
 DTSTART:20231107T000000
 DTEND:20231107T010000
 SUMMARY:Eurostat: Population and social conditions - Temporary protection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a48b6389-5c1f-41b1-b13a-f00fb03c7547
+UID:ical-30e70daf-9efe-4b3b-914c-6695fc9d7360
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Population and social conditions - Excess mortality
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-72c9339e-a951-411a-a6d7-35a388fd5973
+UID:ical-30cebbd1-98e9-4cce-b0f8-c1f0a702c0b1
 DTSTART:20231017T000000
 DTEND:20231017T010000
 SUMMARY:Eurostat: Population and social conditions - Excess mortality statistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-f4c1968f-b241-49d0-803c-ce902cbbdd13
+UID:ical-2eb58789-cc19-4e1a-9106-67a0828f60b4
 DTSTART:20231026T000000
 DTEND:20231026T010000
 SUMMARY:Eurostat: Population and social conditions - Migrant integration - at risk of poverty and social exclusion
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-0f13eaf0-351d-48f0-b2e1-42be3ea6f3e5
+UID:ical-9d116c52-c338-4521-877d-2810d8f366ea
 DTSTART:20231108T000000
 DTEND:20231108T010000
 SUMMARY:Eurostat: Industry, trade and services - Industrial import prices
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-2f0674f4-9a1a-4395-9a81-41f1cda6b3b7
+UID:ical-b695bb9b-e205-4b05-8913-554cfe207513
 DTSTART:20230726T000000
 DTEND:20230726T010000
 SUMMARY:Eurostat: Economy and finance - Eurostatistics
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-57591950-74eb-415a-b965-4c7ec36c6f16
+UID:ical-a9749915-134d-443b-8340-bbe94d2669b8
 DTSTART:20240229T000000
 DTEND:20240229T010000
 SUMMARY:Eurostat: Science, technology and digital society - E-commerce 
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-e753d088-edb4-4d05-a4fd-0cd30d7d2630
+UID:ical-70aa0cfa-31a1-4224-b32e-5f2036d7b45a
 DTSTART:20230915T000000
 DTEND:20230915T010000
 SUMMARY:Eurostat: Population and social conditions - EU labour market
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-82538304-3779-4f72-980b-6662218d6f68
-DTSTART:20230818T000000
-DTEND:20230818T010000
+UID:ical-b0a32113-11ac-4f00-8c07-8fe03425691c
+DTSTART:20230913T000000
+DTEND:20230913T010000
 SUMMARY:Eurostat: Transport - Air passenger transport - monthly
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-cf83930f-c529-43df-88de-9f52752dd15e
+UID:ical-0c5712b0-13b5-477b-8cf9-ee9154f18bfe
 DTSTART:20230817T000000
 DTEND:20230817T010000
 SUMMARY:Eurostat: Population and social conditions - Excess mortality
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9ef45bf7-21bc-405e-ba8f-3134d0bca714
+UID:ical-91026d06-301e-42b9-8f1f-0944ce01beb7
 DTSTART:20230725T000000
 DTEND:20230725T010000
 SUMMARY:Eurostat: Transport - Road freight
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-6feed297-6852-4e1e-bd03-4f06716fc3c2
+UID:ical-3e10a013-dc0b-4212-93df-5185c6b9c0da
 DTSTART:20230801T000000
 DTEND:20230801T010000
 SUMMARY:Eurostat: Population and social conditions - People in the EU unable to afford internet connection
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-a1cee103-65ea-49fe-8e9c-1b92e333bd9e
+UID:ical-f0a37057-260f-446f-a385-222f98a9ea9e
 DTSTART:20250131T000000
 DTEND:20250131T010000
 SUMMARY:Eurostat: Science, technology and digital society - ICT specialists - hard-to-fill vacancies in enterprises
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-60c68292-ce9b-4305-b831-92b1b8d6cda4
+UID:ical-35532679-c2e0-42da-8981-91e326fa195c
 DTSTART:20230821T000000
 DTEND:20230821T010000
 SUMMARY:Eurostat: General and regional statistics - My country in a bubble
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-3ffc842d-43e7-4462-9356-c8cc9d106cfe
+UID:ical-3371217f-5c3c-4cd0-a839-9e0f6b6155bb
 DTSTART:20230809T000000
 DTEND:20230809T010000
 SUMMARY:Eurostat: Population and social conditions - Cancer screening
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-9da0ca9e-549c-4938-905d-9f7425473422
+UID:ical-276f423b-db1d-453e-9f1d-0a0b90d84407
 DTSTART:20230831T000000
 DTEND:20230831T010000
 SUMMARY:Eurostat: Environment and energy - Climate change - driving forces
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-65a24958-1896-4bd7-9ed2-c832dec52870
+UID:ical-bbb45e29-3fab-48d1-991a-5f4100dd88a1
 DTSTART:20230824T000000
 DTEND:20230824T010000
 SUMMARY:Eurostat: Population and social conditions - Employment in culture
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-19213805-da49-4e2d-a02d-567143b76232
+UID:ical-6930e2a8-290a-4a96-a1a0-1242458e6c02
 DTSTART:20231103T000000
 DTEND:20231103T010000
 SUMMARY:Eurostat: Population and social conditions - Living conditions in Europe - income distribution and income inequality
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-29fef936-8853-4539-82e2-7d5f04aff6e8
+UID:ical-028a2a25-fa5f-4ea6-9282-1b96e0f613a8
 DTSTART:20230911T000000
 DTEND:20230911T010000
 SUMMARY:Eurostat: Population and social conditions - People in the EU unable to keep adequately warm
 END:VEVENT
 BEGIN:VEVENT
-UID:ical-1817884f-03db-43fb-8922-6b5cbc4fcc39
+UID:ical-4a79caab-7620-4678-b34a-ec44e84d05d4
 DTSTART:20230927T000000
 DTEND:20230927T010000
 SUMMARY:Eurostat: Population and social conditions - Children at risk of poverty or social exclusion
