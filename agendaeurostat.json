@@ -24360,6 +24360,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "16860396",
+	                    "title": "International trade and production of high-tech products",
+	                    "theme": "International trade",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-22T10:00:00Z",
+	                    "end": "2023-09-22T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 	
 	
@@ -24478,6 +24497,25 @@
 	                    },
 		
 		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "16860452",
+	                    "title": "EU trade with Ukraine",
+	                    "theme": "International trade",
+	                    "period": "Q2/2023",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-04T10:00:00Z",
+	                    "end": "2023-09-04T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -31360,7 +31398,7 @@
 	
 	                    {
 	                    "recordid": "16817326",
-	                    "title": "Map tool IMAGE",
+	                    "title": "How to make maps using the interactive tool “IMAGE”",
 	                    "theme": "General and regional statistics",
 	                    "period": "",
 	                    "types": [{"order":3,"label":"News article"}],
@@ -31914,6 +31952,25 @@
 	                    "allDay": true
 	                    },
 		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "16825241",
+	                    "title": "EU international trade in goods",
+	                    "theme": "International trade",
+	                    "period": "Q2 2023",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-25T10:00:00Z",
+	                    "end": "2023-08-25T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -33153,6 +33210,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "16863821",
+	                    "title": "EU trade with Russia",
+	                    "theme": "International trade",
+	                    "period": "Q2/2023",
+	                    "types": [{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-01T10:00:00Z",
+	                    "end": "2023-09-01T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 		
 	
@@ -34094,7 +34170,7 @@
 	
 	                    {
 	                    "recordid": "15598505",
-	                    "title": "Tourism statistics - nights spent at tourist accommodation establishments",
+	                    "title": "Nights spent at tourist accommodation establishments",
 	                    "theme": "Industry, trade and services",
 	                    "period": "August 2023",
 	                    "types": [{"order":1,"label":"Data release"}],
@@ -34116,7 +34192,7 @@
 	                    "recordid": "15598531",
 	                    "title": "Business registrations and bankruptcies",
 	                    "theme": "Industry, trade and services",
-	                    "period": "September 2023 and 3Q/2023",
+	                    "period": "September 2023 and Q3/2023",
 	                    "types": [{"order":1,"label":"Data release"},{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
 	                    "start": "2023-11-17T11:00:00Z",
@@ -37400,8 +37476,8 @@
 	                    "period": "2022",
 	                    "types": [{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
-	                    "start": "2023-08-09T10:00:00Z",
-	                    "end": "2023-08-09T10:00:00Z",
+	                    "start": "2023-08-08T10:00:00Z",
+	                    "end": "2023-08-08T10:00:00Z",
 	                    "unit": "F1",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -37507,6 +37583,25 @@
 	                    "allDay": true
 	                    },
 		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "15124337",
+	                    "title": "Air pollution statistics - emission inventories",
+	                    "theme": "Environment and energy",
+	                    "period": "2021",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-07T10:00:00Z",
+	                    "end": "2023-08-07T10:00:00Z",
+	                    "unit": "E2",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -38315,7 +38410,6 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
-		
 		
 		
 		
@@ -43841,6 +43935,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "15266730",
+	                    "title": "International trade in goods by economic sector",
+	                    "theme": "International trade",
+	                    "period": "2021",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-27T10:00:00Z",
+	                    "end": "2023-09-27T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 		
 	
@@ -44093,6 +44206,26 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "17249963",
+	                    "title": " EU international trade in goods - latest developments",
+	                    "theme": "International trade",
+	                    "period": "Q2/2023",
+	                    "types": [{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-28T10:00:00Z",
+	                    "end": "2023-08-28T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
 		
 		
 		
@@ -44252,6 +44385,7 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
+		
 		
 		
 		
@@ -44553,6 +44687,7 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
+		
 		
 		
 		
@@ -44955,6 +45090,25 @@
 	                    "allDay": true
 	                    },
 		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "15214374",
+	                    "title": "Digitalisation in Europe",
+	                    "theme": "Science, technology and digital society",
+	                    "period": "2023 edition",
+	                    "types": [{"order":3,"label":"News article"},{"order":6,"label":"Interactive publication"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-21T10:00:00Z",
+	                    "end": "2023-09-21T10:00:00Z",
+	                    "unit": "B4/G4",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
 		
 		
 		
@@ -45658,7 +45812,7 @@
 	                    "title": "Environmental taxes by economic activity",
 	                    "theme": "Environment and energy",
 	                    "period": "2021",
-	                    "types": [{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
 	                    "start": "2023-07-26T10:00:00Z",
 	                    "end": "2023-07-26T10:00:00Z",
@@ -47725,7 +47879,7 @@
 	                    "title": "Young Europeans Tool",
 	                    "theme": "General and regional statistics",
 	                    "period": "",
-	                    "types": [{"order":3,"label":"News article"}],
+	                    "types": [{"order":3,"label":"News article"},{"order":7,"label":"Visualisation"}],
 	                    "preliminary": false,
 	                    "start": "2023-08-11T10:00:00Z",
 	                    "end": "2023-08-11T10:00:00Z",
@@ -48307,6 +48461,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "16628361",
+	                    "title": " Production and international trade in chemicals",
+	                    "theme": "Industry, trade and services",
+	                    "period": "2022",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-20T10:00:00Z",
+	                    "end": "2023-09-20T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 	
 	
@@ -48581,8 +48754,8 @@
 	                    "period": "June 2023",
 	                    "types": [{"order":2,"label":"Euro indicator release"},{"order":1,"label":"Data release"}],
 	                    "preliminary": false,
-	                    "start": "2023-08-16T10:00:00Z",
-	                    "end": "2023-08-16T10:00:00Z",
+	                    "start": "2023-08-17T10:00:00Z",
+	                    "end": "2023-08-17T10:00:00Z",
 	                    "unit": "G5",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -49329,7 +49502,7 @@
 	                    "title": "Greenhouse gas emissions",
 	                    "theme": "Environment and energy",
 	                    "period": "Q1/2023",
-	                    "types": [{"order":1,"label":"Data release"},{"order":4,"label":"Statistics Explained"}],
+	                    "types": [{"order":1,"label":"Data release"},{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
 	                    "start": "2023-08-16T10:00:00Z",
 	                    "end": "2023-08-16T10:00:00Z",
@@ -49875,13 +50048,13 @@
 	
 	                    {
 	                    "recordid": "15583038",
-	                    "title": "Road freight",
+	                    "title": "Road freight transport by journey characteristics",
 	                    "theme": "Transport",
 	                    "period": "2022",
 	                    "types": [{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
-	                    "start": "2023-09-29T10:00:00Z",
-	                    "end": "2023-09-29T10:00:00Z",
+	                    "start": "2023-09-07T10:00:00Z",
+	                    "end": "2023-09-07T10:00:00Z",
 	                    "unit": "E3",
 	                    "euroindAuthor": "",
 	                    "allDay": true
@@ -51027,7 +51200,7 @@
 	                    "title": "R&amp;D expenditure",
 	                    "theme": "Science, technology and digital society",
 	                    "period": "2022",
-	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "types": [{"order":3,"label":"News article"},{"order":4,"label":"Statistics Explained"}],
 	                    "preliminary": false,
 	                    "start": "2023-09-27T10:00:00Z",
 	                    "end": "2023-09-27T10:00:00Z",
@@ -54950,6 +55123,26 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "16963877",
+	                    "title": "Production and trade of ice cream",
+	                    "theme": "International trade",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-14T10:00:00Z",
+	                    "end": "2023-08-14T10:00:00Z",
+	                    "unit": "G3/G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
 		
 		
 	
@@ -54976,6 +55169,26 @@
 	
 	
 	                    {
+	                    "recordid": "17266263",
+	                    "title": "Material flow accounts statistics - material footprints",
+	                    "theme": "Environment and energy",
+	                    "period": "2023",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2024-07-31T10:00:00Z",
+	                    "end": "2024-07-31T10:00:00Z",
+	                    "unit": "E2",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
+	
+	
+	                    {
 	                    "recordid": "16975899",
 	                    "title": "EU labour market",
 	                    "theme": "Population and social conditions",
@@ -54988,9 +55201,6 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
-		
-		
-		
 		
 		
 		
@@ -55237,6 +55447,7 @@
 		
 		
 		
+		
 	
 	
 	                    {
@@ -55244,7 +55455,7 @@
 	                    "title": "My country in a bubble",
 	                    "theme": "General and regional statistics",
 	                    "period": "",
-	                    "types": [{"order":3,"label":"News article"}],
+	                    "types": [{"order":3,"label":"News article"},{"order":7,"label":"Visualisation"}],
 	                    "preliminary": false,
 	                    "start": "2023-08-21T10:00:00Z",
 	                    "end": "2023-08-21T10:00:00Z",
@@ -55307,6 +55518,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "17201401",
+	                    "title": "Production and trade of beer",
+	                    "theme": "Industry, trade and services",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-03T10:00:00Z",
+	                    "end": "2023-08-03T10:00:00Z",
+	                    "unit": "G3/G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 	
 	
@@ -55350,6 +55580,25 @@
 		
 		
 		
+	
+	
+	                    {
+	                    "recordid": "17157448",
+	                    "title": "EU imports of energy products",
+	                    "theme": "International trade",
+	                    "period": "Q2/23",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2023-09-25T10:00:00Z",
+	                    "end": "2023-09-25T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
 		
 		
 		
@@ -55379,6 +55628,29 @@
 		
 		
 		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "17242766",
+	                    "title": "Internet connected devices",
+	                    "theme": "Science, technology and digital society",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-29T10:00:00Z",
+	                    "end": "2023-08-29T10:00:00Z",
+	                    "unit": "G4",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
+		
 	
 	
 	                    {
@@ -55394,6 +55666,27 @@
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    },
+		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "17266069",
+	                    "title": "International trade in goods for the EU - an overview",
+	                    "theme": "International trade",
+	                    "period": "2023",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2024-08-31T10:00:00Z",
+	                    "end": "2024-08-31T10:00:00Z",
+	                    "unit": "G5",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
 		
 		
 		
@@ -55433,6 +55726,49 @@
 	                    "start": "2023-09-27T10:00:00Z",
 	                    "end": "2023-09-27T10:00:00Z",
 	                    "unit": "F4",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "17201415",
+	                    "title": "Firefighters",
+	                    "theme": "Population and social conditions",
+	                    "period": "2022",
+	                    "types": [{"order":3,"label":"News article"}],
+	                    "preliminary": false,
+	                    "start": "2023-08-07T10:00:00Z",
+	                    "end": "2023-08-07T10:00:00Z",
+	                    "unit": "F3",
+	                    "euroindAuthor": "",
+	                    "allDay": true
+	                    },
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	                    {
+	                    "recordid": "17207338",
+	                    "title": "Early estimates of income inequalities",
+	                    "theme": "Population and social conditions",
+	                    "period": "2023",
+	                    "types": [{"order":4,"label":"Statistics Explained"}],
+	                    "preliminary": false,
+	                    "start": "2024-07-17T10:00:00Z",
+	                    "end": "2024-07-17T10:00:00Z",
+	                    "unit": "F1",
 	                    "euroindAuthor": "",
 	                    "allDay": true
 	                    }]
