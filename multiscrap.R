@@ -187,6 +187,7 @@ jsoncars<-str_replace_all(str_replace_all(str_replace_all(str_replace_all(jsonca
 
 jsoncars<-str_replace_all(jsoncars,'\\/\\/\\"end\\"','"end"')
 jsoncars<-str_replace_all(jsoncars,"  "," ")
+jsoncars<-str_replace_all(jsoncars,"NA\\]","]")
 jsoncars<-str_replace_all(jsoncars,'"Regional aggregates by typologies (.*)",','"Regional aggregates by typologies",')
 
 
